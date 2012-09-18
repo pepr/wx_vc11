@@ -193,7 +193,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -229,7 +229,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -267,7 +267,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -303,7 +303,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -347,7 +347,7 @@
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -391,7 +391,7 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
     </Link>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -435,7 +435,7 @@
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -479,7 +479,7 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
     </Link>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_stc.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_stc.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -572,7 +572,7 @@
     <ClInclude Include="..\..\include\wx\stc\stc.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="wx_vc9_wxscintilla.vcxproj">
+    <ProjectReference Include="wx_vc11_wxscintilla.vcxproj">
       <Project>{74827ebd-93dc-5110-ba95-3f2ab029b6b0}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

@@ -182,7 +182,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -215,7 +215,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -250,7 +250,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -283,7 +283,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -318,7 +318,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -351,7 +351,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -386,7 +386,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -419,7 +419,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxregex.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxregex.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>

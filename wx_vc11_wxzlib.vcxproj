@@ -171,7 +171,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -201,7 +201,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -233,7 +233,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -263,7 +263,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_lib\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -295,7 +295,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -325,7 +325,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -357,7 +357,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
@@ -387,7 +387,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
-      <OutputFile>..\..\lib\vc_dll\wx_vc9_wxzlib.bsc</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wx_vc11_wxzlib.bsc</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Bscmake>
   </ItemDefinitionGroup>
