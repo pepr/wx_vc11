@@ -121,7 +121,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswud\wxscintilla\</IntDir>
-    <TargetName>$(ProjectName)d</TargetName>
+    <TargetName>wxscintillad</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
