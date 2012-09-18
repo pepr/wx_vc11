@@ -1,0 +1,3929 @@
+------ Rebuild All started: Project: wxscintilla, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  AutoComplete.cxx
+  CallTip.cxx
+  CellBuffer.cxx
+  CharClassify.cxx
+  ContractionState.cxx
+  Decoration.cxx
+  Document.cxx
+  DocumentAccessor.cxx
+  Editor.cxx
+  ExternalLexer.cxx
+  Indicator.cxx
+  KeyMap.cxx
+  KeyWords.cxx
+  LexAPDL.cxx
+  LexASY.cxx
+  LexAU3.cxx
+  LexAVE.cxx
+  LexAbaqus.cxx
+  LexAda.cxx
+  LexAsm.cxx
+  LexAsn1.cxx
+  LexBaan.cxx
+  LexBash.cxx
+  LexBasic.cxx
+  LexBullant.cxx
+  LexCLW.cxx
+  LexCOBOL.cxx
+  LexCPP.cxx
+  LexCSS.cxx
+  LexCaml.cxx
+  LexCmake.cxx
+  LexConf.cxx
+  LexCrontab.cxx
+  LexCsound.cxx
+  LexD.cxx
+  LexEScript.cxx
+  LexEiffel.cxx
+  LexErlang.cxx
+  LexFlagship.cxx
+  LexForth.cxx
+  LexFortran.cxx
+  LexGAP.cxx
+  LexGui4Cli.cxx
+  LexHTML.cxx
+  LexHaskell.cxx
+  LexInno.cxx
+  LexKix.cxx
+  LexLisp.cxx
+  LexLout.cxx
+  LexLua.cxx
+  LexMMIXAL.cxx
+  LexMPT.cxx
+  LexMSSQL.cxx
+  LexMagik.cxx
+  LexMarkdown.cxx
+  LexMatlab.cxx
+  LexMetapost.cxx
+  LexMySQL.cxx
+  LexNimrod.cxx
+  LexNsis.cxx
+  LexOpal.cxx
+  LexOthers.cxx
+  LexPB.cxx
+  LexPLM.cxx
+  LexPOV.cxx
+  LexPS.cxx
+  LexPascal.cxx
+  LexPerl.cxx
+  LexPowerPro.cxx
+  LexPowerShell.cxx
+  LexProgress.cxx
+  LexPython.cxx
+  LexR.cxx
+  LexRebol.cxx
+  LexRuby.cxx
+  LexSML.cxx
+  LexSQL.cxx
+  LexScriptol.cxx
+  LexSmalltalk.cxx
+  LexSorcus.cxx
+  LexSpecman.cxx
+  LexSpice.cxx
+  LexTACL.cxx
+  LexTADS3.cxx
+  LexTAL.cxx
+  LexTCL.cxx
+  LexTeX.cxx
+  LexVB.cxx
+  LexVHDL.cxx
+  LexVerilog.cxx
+  LexYAML.cxx
+  LineMarker.cxx
+  PerLine.cxx
+  PositionCache.cxx
+  PropSet.cxx
+  RESearch.cxx
+  RunStyles.cxx
+  ScintillaBase.cxx
+  Selection.cxx
+  Style.cxx
+  StyleContext.cxx
+  UniConversion.cxx
+  ViewStyle.cxx
+  WindowAccessor.cxx
+  XPM.cxx
+  wx_vc11_wxscintilla.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxscintilla.lib
+------ Rebuild All started: Project: wxscintilla, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  AutoComplete.cxx
+  CallTip.cxx
+  CellBuffer.cxx
+  CharClassify.cxx
+  ContractionState.cxx
+  Decoration.cxx
+  Document.cxx
+  DocumentAccessor.cxx
+  Editor.cxx
+  ExternalLexer.cxx
+  Indicator.cxx
+  KeyMap.cxx
+  KeyWords.cxx
+  LexAPDL.cxx
+  LexASY.cxx
+  LexAU3.cxx
+  LexAVE.cxx
+  LexAbaqus.cxx
+  LexAda.cxx
+  LexAsm.cxx
+  LexAsn1.cxx
+  LexBaan.cxx
+  LexBash.cxx
+  LexBasic.cxx
+  LexBullant.cxx
+  LexCLW.cxx
+  LexCOBOL.cxx
+  LexCPP.cxx
+  LexCSS.cxx
+  LexCaml.cxx
+  LexCmake.cxx
+  LexConf.cxx
+  LexCrontab.cxx
+  LexCsound.cxx
+  LexD.cxx
+  LexEScript.cxx
+  LexEiffel.cxx
+  LexErlang.cxx
+  LexFlagship.cxx
+  LexForth.cxx
+  LexFortran.cxx
+  LexGAP.cxx
+  LexGui4Cli.cxx
+  LexHTML.cxx
+  LexHaskell.cxx
+  LexInno.cxx
+  LexKix.cxx
+  LexLisp.cxx
+  LexLout.cxx
+  LexLua.cxx
+  LexMMIXAL.cxx
+  LexMPT.cxx
+  LexMSSQL.cxx
+  LexMagik.cxx
+  LexMarkdown.cxx
+  LexMatlab.cxx
+  LexMetapost.cxx
+  LexMySQL.cxx
+  LexNimrod.cxx
+  LexNsis.cxx
+  LexOpal.cxx
+  LexOthers.cxx
+  LexPB.cxx
+  LexPLM.cxx
+  LexPOV.cxx
+  LexPS.cxx
+  LexPascal.cxx
+  LexPerl.cxx
+  LexPowerPro.cxx
+  LexPowerShell.cxx
+  LexProgress.cxx
+  LexPython.cxx
+  LexR.cxx
+  LexRebol.cxx
+  LexRuby.cxx
+  LexSML.cxx
+  LexSQL.cxx
+  LexScriptol.cxx
+  LexSmalltalk.cxx
+  LexSorcus.cxx
+  LexSpecman.cxx
+  LexSpice.cxx
+  LexTACL.cxx
+  LexTADS3.cxx
+  LexTAL.cxx
+  LexTCL.cxx
+  LexTeX.cxx
+  LexVB.cxx
+  LexVHDL.cxx
+  LexVerilog.cxx
+  LexYAML.cxx
+  LineMarker.cxx
+  PerLine.cxx
+  PositionCache.cxx
+  PropSet.cxx
+  RESearch.cxx
+  RunStyles.cxx
+  ScintillaBase.cxx
+  Selection.cxx
+  Style.cxx
+  StyleContext.cxx
+  UniConversion.cxx
+  ViewStyle.cxx
+  WindowAccessor.cxx
+  XPM.cxx
+  wx_vc11_wxscintilla.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxscintilla.lib
+------ Rebuild All started: Project: wxscintilla, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  AutoComplete.cxx
+  CallTip.cxx
+  CellBuffer.cxx
+  CharClassify.cxx
+  ContractionState.cxx
+  Decoration.cxx
+  Document.cxx
+  DocumentAccessor.cxx
+  Editor.cxx
+  ExternalLexer.cxx
+  Indicator.cxx
+  KeyMap.cxx
+  KeyWords.cxx
+  LexAPDL.cxx
+  LexASY.cxx
+  LexAU3.cxx
+  LexAVE.cxx
+  LexAbaqus.cxx
+  LexAda.cxx
+  LexAsm.cxx
+  LexAsn1.cxx
+  LexBaan.cxx
+  LexBash.cxx
+  LexBasic.cxx
+  LexBullant.cxx
+  LexCLW.cxx
+  LexCOBOL.cxx
+  LexCPP.cxx
+  LexCSS.cxx
+  LexCaml.cxx
+  LexCmake.cxx
+  LexConf.cxx
+  LexCrontab.cxx
+  LexCsound.cxx
+  LexD.cxx
+  LexEScript.cxx
+  LexEiffel.cxx
+  LexErlang.cxx
+  LexFlagship.cxx
+  LexForth.cxx
+  LexFortran.cxx
+  LexGAP.cxx
+  LexGui4Cli.cxx
+  LexHTML.cxx
+  LexHaskell.cxx
+  LexInno.cxx
+  LexKix.cxx
+  LexLisp.cxx
+  LexLout.cxx
+  LexLua.cxx
+  LexMMIXAL.cxx
+  LexMPT.cxx
+  LexMSSQL.cxx
+  LexMagik.cxx
+  LexMarkdown.cxx
+  LexMatlab.cxx
+  LexMetapost.cxx
+  LexMySQL.cxx
+  LexNimrod.cxx
+  LexNsis.cxx
+  LexOpal.cxx
+  LexOthers.cxx
+  LexPB.cxx
+  LexPLM.cxx
+  LexPOV.cxx
+  LexPS.cxx
+  LexPascal.cxx
+  LexPerl.cxx
+  LexPowerPro.cxx
+  LexPowerShell.cxx
+  LexProgress.cxx
+  LexPython.cxx
+  LexR.cxx
+  LexRebol.cxx
+  LexRuby.cxx
+  LexSML.cxx
+  LexSQL.cxx
+  LexScriptol.cxx
+  LexSmalltalk.cxx
+  LexSorcus.cxx
+  LexSpecman.cxx
+  LexSpice.cxx
+  LexTACL.cxx
+  LexTADS3.cxx
+  LexTAL.cxx
+  LexTCL.cxx
+  LexTeX.cxx
+  LexVB.cxx
+  LexVHDL.cxx
+  LexVerilog.cxx
+  LexYAML.cxx
+  LineMarker.cxx
+  PerLine.cxx
+  PositionCache.cxx
+  PropSet.cxx
+  RESearch.cxx
+  RunStyles.cxx
+  ScintillaBase.cxx
+  Selection.cxx
+  Style.cxx
+  StyleContext.cxx
+  UniConversion.cxx
+  ViewStyle.cxx
+  WindowAccessor.cxx
+  XPM.cxx
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxscintilla.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxscintillad.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxscintilla) does not match the Library's OutputFile property value (wxscintillad). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxscintilla.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxscintilla.lib
+------ Rebuild All started: Project: wxscintilla, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  AutoComplete.cxx
+  CallTip.cxx
+  CellBuffer.cxx
+  CharClassify.cxx
+  ContractionState.cxx
+  Decoration.cxx
+  Document.cxx
+  DocumentAccessor.cxx
+  Editor.cxx
+  ExternalLexer.cxx
+  Indicator.cxx
+  KeyMap.cxx
+  KeyWords.cxx
+  LexAPDL.cxx
+  LexASY.cxx
+  LexAU3.cxx
+  LexAVE.cxx
+  LexAbaqus.cxx
+  LexAda.cxx
+  LexAsm.cxx
+  LexAsn1.cxx
+  LexBaan.cxx
+  LexBash.cxx
+  LexBasic.cxx
+  LexBullant.cxx
+  LexCLW.cxx
+  LexCOBOL.cxx
+  LexCPP.cxx
+  LexCSS.cxx
+  LexCaml.cxx
+  LexCmake.cxx
+  LexConf.cxx
+  LexCrontab.cxx
+  LexCsound.cxx
+  LexD.cxx
+  LexEScript.cxx
+  LexEiffel.cxx
+  LexErlang.cxx
+  LexFlagship.cxx
+  LexForth.cxx
+  LexFortran.cxx
+  LexGAP.cxx
+  LexGui4Cli.cxx
+  LexHTML.cxx
+  LexHaskell.cxx
+  LexInno.cxx
+  LexKix.cxx
+  LexLisp.cxx
+  LexLout.cxx
+  LexLua.cxx
+  LexMMIXAL.cxx
+  LexMPT.cxx
+  LexMSSQL.cxx
+  LexMagik.cxx
+  LexMarkdown.cxx
+  LexMatlab.cxx
+  LexMetapost.cxx
+  LexMySQL.cxx
+  LexNimrod.cxx
+  LexNsis.cxx
+  LexOpal.cxx
+  LexOthers.cxx
+  LexPB.cxx
+  LexPLM.cxx
+  LexPOV.cxx
+  LexPS.cxx
+  LexPascal.cxx
+  LexPerl.cxx
+  LexPowerPro.cxx
+  LexPowerShell.cxx
+  LexProgress.cxx
+  LexPython.cxx
+  LexR.cxx
+  LexRebol.cxx
+  LexRuby.cxx
+  LexSML.cxx
+  LexSQL.cxx
+  LexScriptol.cxx
+  LexSmalltalk.cxx
+  LexSorcus.cxx
+  LexSpecman.cxx
+  LexSpice.cxx
+  LexTACL.cxx
+  LexTADS3.cxx
+  LexTAL.cxx
+  LexTCL.cxx
+  LexTeX.cxx
+  LexVB.cxx
+  LexVHDL.cxx
+  LexVerilog.cxx
+  LexYAML.cxx
+  LineMarker.cxx
+  PerLine.cxx
+  PositionCache.cxx
+  PropSet.cxx
+  RESearch.cxx
+  RunStyles.cxx
+  ScintillaBase.cxx
+  Selection.cxx
+  Style.cxx
+  StyleContext.cxx
+  UniConversion.cxx
+  ViewStyle.cxx
+  WindowAccessor.cxx
+  XPM.cxx
+  wx_vc11_wxscintilla.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxscintillad.lib
+------ Rebuild All started: Project: wxregex, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  regcomp.c
+  regerror.c
+  regexec.c
+  regfree.c
+  wx_vc11_wxregex.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxregexu.lib
+------ Rebuild All started: Project: wxregex, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  regcomp.c
+  regerror.c
+  regexec.c
+  regfree.c
+  wx_vc11_wxregex.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxregexu.lib
+------ Rebuild All started: Project: wxregex, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  regcomp.c
+  regerror.c
+  regexec.c
+  regfree.c
+  wx_vc11_wxregex.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxregexud.lib
+------ Rebuild All started: Project: wxregex, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  regcomp.c
+  regerror.c
+  regexec.c
+  regfree.c
+  wx_vc11_wxregex.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxregexud.lib
+------ Rebuild All started: Project: wxzlib, Configuration: Release Win32 ------
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  wx_vc11_wxzlib.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxzlib.lib
+------ Rebuild All started: Project: wxzlib, Configuration: DLL Release Win32 ------
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  wx_vc11_wxzlib.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxzlib.lib
+------ Rebuild All started: Project: wxzlib, Configuration: DLL Debug Win32 ------
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxzlib.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxzlibd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxzlib) does not match the Library's OutputFile property value (wxzlibd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxzlib.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxzlib.lib
+------ Rebuild All started: Project: wxzlib, Configuration: Debug Win32 ------
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  wx_vc11_wxzlib.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxzlibd.lib
+------ Rebuild All started: Project: wxpng, Configuration: Release Win32 ------
+  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  wx_vc11_wxpng.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxpng.lib
+------ Rebuild All started: Project: wxpng, Configuration: DLL Release Win32 ------
+  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  wx_vc11_wxpng.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxpng.lib
+------ Rebuild All started: Project: wxpng, Configuration: DLL Debug Win32 ------
+  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxpng.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxpngd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxpng) does not match the Library's OutputFile property value (wxpngd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxpng.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxpng.lib
+------ Rebuild All started: Project: wxpng, Configuration: Debug Win32 ------
+  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  wx_vc11_wxpng.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxpngd.lib
+------ Rebuild All started: Project: wxjpeg, Configuration: Release Win32 ------
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  wx_vc11_wxjpeg.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxjpeg.lib
+------ Rebuild All started: Project: wxjpeg, Configuration: DLL Release Win32 ------
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  wx_vc11_wxjpeg.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxjpeg.lib
+------ Rebuild All started: Project: wxjpeg, Configuration: DLL Debug Win32 ------
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcmainct.c
+  jcinit.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxjpeg.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxjpegd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxjpeg) does not match the Library's OutputFile property value (wxjpegd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxjpeg.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxjpeg.lib
+------ Rebuild All started: Project: wxjpeg, Configuration: Debug Win32 ------
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  wx_vc11_wxjpeg.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxjpegd.lib
+------ Rebuild All started: Project: wxtiff, Configuration: Release Win32 ------
+  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jpeg.c
+  tif_luv.c
+  tif_lzw.c
+  tif_next.c
+  tif_ojpeg.c
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_win32.c
+  tif_write.c
+  tif_zip.c
+  wx_vc11_wxtiff.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxtiff.lib
+------ Rebuild All started: Project: wxtiff, Configuration: DLL Release Win32 ------
+  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jpeg.c
+  tif_luv.c
+  tif_lzw.c
+  tif_next.c
+  tif_ojpeg.c
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_win32.c
+  tif_write.c
+  tif_zip.c
+  wx_vc11_wxtiff.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxtiff.lib
+------ Rebuild All started: Project: wxtiff, Configuration: DLL Debug Win32 ------
+  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jpeg.c
+  tif_luv.c
+  tif_lzw.c
+  tif_next.c
+  tif_ojpeg.c
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_win32.c
+  tif_write.c
+  tif_zip.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxtiff.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxtiffd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxtiff) does not match the Library's OutputFile property value (wxtiffd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxtiff.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxtiff.lib
+------ Rebuild All started: Project: wxtiff, Configuration: Debug Win32 ------
+  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jpeg.c
+  tif_luv.c
+  tif_lzw.c
+  tif_next.c
+  tif_ojpeg.c
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_win32.c
+  tif_write.c
+  tif_zip.c
+  wx_vc11_wxtiff.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxtiffd.lib
+------ Rebuild All started: Project: wxexpat, Configuration: Release Win32 ------
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+  wx_vc11_wxexpat.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxexpat.lib
+------ Rebuild All started: Project: wxexpat, Configuration: DLL Release Win32 ------
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+  wx_vc11_wxexpat.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxexpat.lib
+------ Rebuild All started: Project: wxexpat, Configuration: DLL Debug Win32 ------
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxexpat.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxexpatd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxexpat) does not match the Library's OutputFile property value (wxexpatd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_wxexpat.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxexpat.lib
+------ Rebuild All started: Project: wxexpat, Configuration: Debug Win32 ------
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+  wx_vc11_wxexpat.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxexpatd.lib
+------ Rebuild All started: Project: base, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  any.cpp
+  appbase.cpp
+  arcall.cpp
+  arcfind.cpp
+  archive.cpp
+  arrstr.cpp
+  base64.cpp
+  clntdata.cpp
+  cmdline.cpp
+  config.cpp
+  convauto.cpp
+  datetime.cpp
+  datetimefmt.cpp
+  datstrm.cpp
+  dircmn.cpp
+  dynarray.cpp
+  dynlib.cpp
+  dynload.cpp
+  encconv.cpp
+  event.cpp
+  evtloopcmn.cpp
+  ffile.cpp
+  file.cpp
+  fileback.cpp
+  fileconf.cpp
+  filefn.cpp
+  filename.cpp
+  filesys.cpp
+  filtall.cpp
+  filtfind.cpp
+  fmapbase.cpp
+  fs_arc.cpp
+  fs_filter.cpp
+  fs_mem.cpp
+  fswatchercmn.cpp
+  hash.cpp
+  hashmap.cpp
+  init.cpp
+  intl.cpp
+  ipcbase.cpp
+  languageinfo.cpp
+  list.cpp
+  log.cpp
+  longlong.cpp
+  memory.cpp
+  mimecmn.cpp
+  module.cpp
+  msgout.cpp
+  mstream.cpp
+  numformatter.cpp
+  object.cpp
+  platinfo.cpp
+  powercmn.cpp
+  process.cpp
+  regex.cpp
+  sstream.cpp
+  stdpbase.cpp
+  stdstream.cpp
+  stopwatch.cpp
+  strconv.cpp
+  stream.cpp
+  string.cpp
+  stringimpl.cpp
+  stringops.cpp
+  strvararg.cpp
+  sysopt.cpp
+  tarstrm.cpp
+  textbuf.cpp
+  textfile.cpp
+  time.cpp
+  timercmn.cpp
+  timerimpl.cpp
+  tokenzr.cpp
+  translation.cpp
+  txtstrm.cpp
+  unichar.cpp
+  uri.cpp
+  ustring.cpp
+  utilscmn.cpp
+  variant.cpp
+  wfstream.cpp
+  wxcrt.cpp
+  wxprintf.cpp
+  xlocale.cpp
+  xti.cpp
+  xtistrm.cpp
+  zipstrm.cpp
+  zstream.cpp
+  basemsw.cpp
+  crashrpt.cpp
+  dde.cpp
+  debughlp.cpp
+  dir.cpp
+  dlmsw.cpp
+  evtloop.cpp
+  fswatcher.cpp
+  main.cpp
+  mimetype.cpp
+  mslu.cpp
+  power.cpp
+  regconf.cpp
+  registry.cpp
+  snglinst.cpp
+  stackwalk.cpp
+  stdpaths.cpp
+  thread.cpp
+  timer.cpp
+  utils.cpp
+  utilsexc.cpp
+  volume.cpp
+  fswatcherg.cpp
+  extended.c
+  wx_vc11_base.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29u.lib
+------ Rebuild All started: Project: base, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  any.cpp
+  appbase.cpp
+  arcall.cpp
+  arcfind.cpp
+  archive.cpp
+  arrstr.cpp
+  base64.cpp
+  clntdata.cpp
+  cmdline.cpp
+  config.cpp
+  convauto.cpp
+  datetime.cpp
+  datetimefmt.cpp
+  datstrm.cpp
+  dircmn.cpp
+  dynarray.cpp
+  dynlib.cpp
+  dynload.cpp
+  encconv.cpp
+  event.cpp
+  evtloopcmn.cpp
+  ffile.cpp
+  file.cpp
+  fileback.cpp
+  fileconf.cpp
+  filefn.cpp
+  filename.cpp
+  filesys.cpp
+  filtall.cpp
+  filtfind.cpp
+  fmapbase.cpp
+  fs_arc.cpp
+  fs_filter.cpp
+  fs_mem.cpp
+  fswatchercmn.cpp
+  hash.cpp
+  hashmap.cpp
+  init.cpp
+  intl.cpp
+  ipcbase.cpp
+  languageinfo.cpp
+  list.cpp
+  log.cpp
+  longlong.cpp
+  memory.cpp
+  mimecmn.cpp
+  module.cpp
+  msgout.cpp
+  mstream.cpp
+  numformatter.cpp
+  object.cpp
+  platinfo.cpp
+  powercmn.cpp
+  process.cpp
+  regex.cpp
+  sstream.cpp
+  stdpbase.cpp
+  stdstream.cpp
+  stopwatch.cpp
+  strconv.cpp
+  stream.cpp
+  string.cpp
+  stringimpl.cpp
+  stringops.cpp
+  strvararg.cpp
+  sysopt.cpp
+  tarstrm.cpp
+  textbuf.cpp
+  textfile.cpp
+  time.cpp
+  timercmn.cpp
+  timerimpl.cpp
+  tokenzr.cpp
+  translation.cpp
+  txtstrm.cpp
+  unichar.cpp
+  uri.cpp
+  ustring.cpp
+  utilscmn.cpp
+c:\program files (x86)\microsoft visual studio 11.0\vc\include\iosfwd(173): warning C4702: unreachable code
+  variant.cpp
+  wfstream.cpp
+  wxcrt.cpp
+  wxprintf.cpp
+  xlocale.cpp
+  xti.cpp
+  xtistrm.cpp
+  zipstrm.cpp
+  zstream.cpp
+  basemsw.cpp
+  crashrpt.cpp
+  dde.cpp
+  debughlp.cpp
+  dir.cpp
+  dlmsw.cpp
+  evtloop.cpp
+  fswatcher.cpp
+  main.cpp
+  mimetype.cpp
+  mslu.cpp
+  power.cpp
+  regconf.cpp
+  registry.cpp
+  snglinst.cpp
+  stackwalk.cpp
+  stdpaths.cpp
+  thread.cpp
+  timer.cpp
+  utils.cpp
+  utilsexc.cpp
+  volume.cpp
+  fswatcherg.cpp
+  extended.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29u.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294u_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxbase29u) does not match the Linker's OutputFile property value (wxbase294u_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxzlib.lib'
+------ Rebuild All started: Project: base, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  any.cpp
+  appbase.cpp
+  arcall.cpp
+  arcfind.cpp
+  archive.cpp
+  arrstr.cpp
+  base64.cpp
+  clntdata.cpp
+  cmdline.cpp
+  config.cpp
+  convauto.cpp
+  datetime.cpp
+  datetimefmt.cpp
+  datstrm.cpp
+  dircmn.cpp
+  dynarray.cpp
+  dynlib.cpp
+  dynload.cpp
+  encconv.cpp
+  event.cpp
+  evtloopcmn.cpp
+  ffile.cpp
+  file.cpp
+  fileback.cpp
+  fileconf.cpp
+  filefn.cpp
+  filename.cpp
+  filesys.cpp
+  filtall.cpp
+  filtfind.cpp
+  fmapbase.cpp
+  fs_arc.cpp
+  fs_filter.cpp
+  fs_mem.cpp
+  fswatchercmn.cpp
+  hash.cpp
+  hashmap.cpp
+  init.cpp
+  intl.cpp
+  ipcbase.cpp
+  languageinfo.cpp
+  list.cpp
+  log.cpp
+  longlong.cpp
+  memory.cpp
+  mimecmn.cpp
+  module.cpp
+  msgout.cpp
+  mstream.cpp
+  numformatter.cpp
+  object.cpp
+  platinfo.cpp
+  powercmn.cpp
+  process.cpp
+  regex.cpp
+  sstream.cpp
+  stdpbase.cpp
+  stdstream.cpp
+  stopwatch.cpp
+  strconv.cpp
+  stream.cpp
+  string.cpp
+  stringimpl.cpp
+  stringops.cpp
+  strvararg.cpp
+  sysopt.cpp
+  tarstrm.cpp
+  textbuf.cpp
+  textfile.cpp
+  time.cpp
+  timercmn.cpp
+  timerimpl.cpp
+  tokenzr.cpp
+  translation.cpp
+  txtstrm.cpp
+  unichar.cpp
+  uri.cpp
+  ustring.cpp
+  utilscmn.cpp
+  variant.cpp
+  wfstream.cpp
+  wxcrt.cpp
+  wxprintf.cpp
+  xlocale.cpp
+  xti.cpp
+  xtistrm.cpp
+  zipstrm.cpp
+  zstream.cpp
+  basemsw.cpp
+  crashrpt.cpp
+  dde.cpp
+  debughlp.cpp
+  dir.cpp
+  dlmsw.cpp
+  evtloop.cpp
+  fswatcher.cpp
+  main.cpp
+  mimetype.cpp
+  mslu.cpp
+  power.cpp
+  regconf.cpp
+  registry.cpp
+  snglinst.cpp
+  stackwalk.cpp
+  stdpaths.cpp
+  thread.cpp
+  timer.cpp
+  utils.cpp
+  utilsexc.cpp
+  volume.cpp
+  fswatcherg.cpp
+  extended.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29ud.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294ud_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxbase29ud) does not match the Linker's OutputFile property value (wxbase294ud_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxbase29ud.lib and object ..\..\lib\vc_dll\wxbase29ud.exp
+  wx_vc11_base.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29ud.dll
+------ Rebuild All started: Project: base, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  any.cpp
+  appbase.cpp
+  arcall.cpp
+  arcfind.cpp
+  archive.cpp
+  arrstr.cpp
+  base64.cpp
+  clntdata.cpp
+  cmdline.cpp
+  config.cpp
+  convauto.cpp
+  datetime.cpp
+  datetimefmt.cpp
+  datstrm.cpp
+  dircmn.cpp
+  dynarray.cpp
+  dynlib.cpp
+  dynload.cpp
+  encconv.cpp
+  event.cpp
+  evtloopcmn.cpp
+  ffile.cpp
+  file.cpp
+  fileback.cpp
+  fileconf.cpp
+  filefn.cpp
+  filename.cpp
+  filesys.cpp
+  filtall.cpp
+  filtfind.cpp
+  fmapbase.cpp
+  fs_arc.cpp
+  fs_filter.cpp
+  fs_mem.cpp
+  fswatchercmn.cpp
+  hash.cpp
+  hashmap.cpp
+  init.cpp
+  intl.cpp
+  ipcbase.cpp
+  languageinfo.cpp
+  list.cpp
+  log.cpp
+  longlong.cpp
+  memory.cpp
+  mimecmn.cpp
+  module.cpp
+  msgout.cpp
+  mstream.cpp
+  numformatter.cpp
+  object.cpp
+  platinfo.cpp
+  powercmn.cpp
+  process.cpp
+  regex.cpp
+  sstream.cpp
+  stdpbase.cpp
+  stdstream.cpp
+  stopwatch.cpp
+  strconv.cpp
+  stream.cpp
+  string.cpp
+  stringimpl.cpp
+  stringops.cpp
+  strvararg.cpp
+  sysopt.cpp
+  tarstrm.cpp
+  textbuf.cpp
+  textfile.cpp
+  time.cpp
+  timercmn.cpp
+  timerimpl.cpp
+  tokenzr.cpp
+  translation.cpp
+  txtstrm.cpp
+  unichar.cpp
+  uri.cpp
+  ustring.cpp
+  utilscmn.cpp
+  variant.cpp
+  wfstream.cpp
+  wxcrt.cpp
+  wxprintf.cpp
+  xlocale.cpp
+  xti.cpp
+  xtistrm.cpp
+  zipstrm.cpp
+  zstream.cpp
+  basemsw.cpp
+  crashrpt.cpp
+  dde.cpp
+  debughlp.cpp
+  dir.cpp
+  dlmsw.cpp
+  evtloop.cpp
+  fswatcher.cpp
+  main.cpp
+  mimetype.cpp
+  mslu.cpp
+  power.cpp
+  regconf.cpp
+  registry.cpp
+  snglinst.cpp
+  stackwalk.cpp
+  stdpaths.cpp
+  thread.cpp
+  timer.cpp
+  utils.cpp
+  utilsexc.cpp
+  volume.cpp
+  fswatcherg.cpp
+  extended.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29ud.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxbase29d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxbase29ud) does not match the Library's OutputFile property value (wxbase29d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_base.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29ud.lib
+------ Rebuild All started: Project: net, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  fs_inet.cpp
+  ftp.cpp
+  http.cpp
+  protocol.cpp
+  sckaddr.cpp
+  sckfile.cpp
+  sckipc.cpp
+  sckstrm.cpp
+  socket.cpp
+  url.cpp
+  sockmsw.cpp
+  urlmsw.cpp
+  wx_vc11_net.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29u_net.lib
+------ Rebuild All started: Project: net, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  fs_inet.cpp
+  ftp.cpp
+  http.cpp
+  protocol.cpp
+  sckaddr.cpp
+  sckfile.cpp
+  sckipc.cpp
+  sckstrm.cpp
+  socket.cpp
+  url.cpp
+  sockmsw.cpp
+  urlmsw.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29u_net.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294u_net_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxbase29u_net) does not match the Linker's OutputFile property value (wxbase294u_net_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxzlib.lib'
+------ Rebuild All started: Project: net, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  fs_inet.cpp
+  ftp.cpp
+  http.cpp
+  protocol.cpp
+  sckaddr.cpp
+  sckfile.cpp
+  sckipc.cpp
+  sckstrm.cpp
+  socket.cpp
+  url.cpp
+  sockmsw.cpp
+  urlmsw.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29ud_net.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294ud_net_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxbase29ud_net) does not match the Linker's OutputFile property value (wxbase294ud_net_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxbase29ud_net.lib and object ..\..\lib\vc_dll\wxbase29ud_net.exp
+  wx_vc11_net.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxbase29ud_net.dll
+------ Rebuild All started: Project: net, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  fs_inet.cpp
+  ftp.cpp
+  http.cpp
+  protocol.cpp
+  sckaddr.cpp
+  sckfile.cpp
+  sckipc.cpp
+  sckstrm.cpp
+  socket.cpp
+  url.cpp
+  sockmsw.cpp
+  urlmsw.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29ud_net.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxbase29d_net.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxbase29ud_net) does not match the Library's OutputFile property value (wxbase29d_net). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_net.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxbase29ud_net.lib
+------ Rebuild All started: Project: core, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  accelcmn.cpp
+  accesscmn.cpp
+  affinematrix2d.cpp
+  anidecod.cpp
+  appcmn.cpp
+  artprov.cpp
+  artstd.cpp
+  arttango.cpp
+  bmpbase.cpp
+  bmpbtncmn.cpp
+  bookctrl.cpp
+  btncmn.cpp
+  cairo.cpp
+  checkboxcmn.cpp
+  checklstcmn.cpp
+  choiccmn.cpp
+  clipcmn.cpp
+  clrpickercmn.cpp
+  cmdproc.cpp
+  cmndata.cpp
+  colourcmn.cpp
+  colourdata.cpp
+  combocmn.cpp
+  containr.cpp
+  cshelp.cpp
+  ctrlcmn.cpp
+  ctrlsub.cpp
+  dcbase.cpp
+  dcbufcmn.cpp
+  dcgraph.cpp
+  dcsvg.cpp
+  dirctrlcmn.cpp
+  dlgcmn.cpp
+  dndcmn.cpp
+  dobjcmn.cpp
+  docmdi.cpp
+  docview.cpp
+  dpycmn.cpp
+  dseldlg.cpp
+  effects.cpp
+  event.cpp
+  fddlgcmn.cpp
+  filectrlcmn.cpp
+  filehistorycmn.cpp
+  filepickercmn.cpp
+  fldlgcmn.cpp
+  fontcmn.cpp
+  fontdata.cpp
+  fontenumcmn.cpp
+  fontmap.cpp
+  fontpickercmn.cpp
+  fontutilcmn.cpp
+  framecmn.cpp
+  fs_mem.cpp
+  gaugecmn.cpp
+  gbsizer.cpp
+  gdicmn.cpp
+  geometry.cpp
+  gifdecod.cpp
+  graphcmn.cpp
+  headercolcmn.cpp
+  headerctrlcmn.cpp
+  helpbase.cpp
+  iconbndl.cpp
+  imagall.cpp
+  imagbmp.cpp
+  image.cpp
+  imagfill.cpp
+  imaggif.cpp
+  imagiff.cpp
+  imagjpeg.cpp
+  imagpcx.cpp
+  imagpng.cpp
+  imagpnm.cpp
+  imagtga.cpp
+  imagtiff.cpp
+  imagxpm.cpp
+  layout.cpp
+  lboxcmn.cpp
+  listctrlcmn.cpp
+  markupparser.cpp
+  matrix.cpp
+  menucmn.cpp
+  mousemanager.cpp
+  msgout.cpp
+  nbkbase.cpp
+  overlaycmn.cpp
+  ownerdrwcmn.cpp
+  panelcmn.cpp
+  paper.cpp
+  persist.cpp
+  pickerbase.cpp
+  popupcmn.cpp
+  prntbase.cpp
+  quantize.cpp
+  radiobtncmn.cpp
+  radiocmn.cpp
+  rearrangectrl.cpp
+  rendcmn.cpp
+  rgncmn.cpp
+  scrolbarcmn.cpp
+  settcmn.cpp
+  sizer.cpp
+  slidercmn.cpp
+  spinbtncmn.cpp
+  spinctrlcmn.cpp
+  srchcmn.cpp
+  statbar.cpp
+  statbmpcmn.cpp
+  statboxcmn.cpp
+  statlinecmn.cpp
+  stattextcmn.cpp
+  stockitem.cpp
+  tbarbase.cpp
+  textcmn.cpp
+  textentrycmn.cpp
+  toplvcmn.cpp
+  treebase.cpp
+  uiactioncmn.cpp
+  utilscmn.cpp
+  valgen.cpp
+  validate.cpp
+  valnum.cpp
+  valtext.cpp
+  wincmn.cpp
+  windowid.cpp
+  wrapsizer.cpp
+  xpmdecod.cpp
+  access.cpp
+  activex.cpp
+  anybutton.cpp
+  app.cpp
+  artmsw.cpp
+  automtn.cpp
+  bitmap.cpp
+  brush.cpp
+  caret.cpp
+  clipbrd.cpp
+  colordlg.cpp
+  colour.cpp
+  combo.cpp
+  cursor.cpp
+  data.cpp
+  dataobj.cpp
+  dc.cpp
+  dcclient.cpp
+  dcmemory.cpp
+  dcprint.cpp
+  dcscreen.cpp
+  dialup.cpp
+  dib.cpp
+  dirdlg.cpp
+  display.cpp
+  dragimag.cpp
+  dropsrc.cpp
+  droptgt.cpp
+  enhmeta.cpp
+  evtloop.cpp
+  filedlg.cpp
+  font.cpp
+  fontdlg.cpp
+  fontenum.cpp
+  fontutil.cpp
+  frame.cpp
+  gdiimage.cpp
+  gdiobj.cpp
+  gdiplus.cpp
+  graphics.cpp
+  headerctrl.cpp
+  helpchm.cpp
+  helpwin.cpp
+  icon.cpp
+  imaglist.cpp
+  iniconf.cpp
+  main.cpp
+  mdi.cpp
+  menuitem.cpp
+  metafile.cpp
+  minifram.cpp
+  msgdlg.cpp
+  mslu.cpp
+  nativdlg.cpp
+  nativewin.cpp
+  nonownedwnd.cpp
+  oleutils.cpp
+  ownerdrw.cpp
+  palette.cpp
+  panel.cpp
+  pen.cpp
+  popupwin.cpp
+  printdlg.cpp
+  printwin.cpp
+  progdlg.cpp
+  region.cpp
+  renderer.cpp
+  richmsgdlg.cpp
+  settings.cpp
+  spinctrl.cpp
+  statusbar.cpp
+  textentry.cpp
+  tooltip.cpp
+  toplevel.cpp
+  treectrl.cpp
+  uiaction.cpp
+  utilsgui.cpp
+  uuid.cpp
+  uxtheme.cpp
+  volume.cpp
+  window.cpp
+  busyinfo.cpp
+  buttonbar.cpp
+  choicbkg.cpp
+  choicdgg.cpp
+  clrpickerg.cpp
+  collpaneg.cpp
+  combog.cpp
+  dcpsg.cpp
+  dirctrlg.cpp
+  dragimgg.cpp
+  filectrlg.cpp
+  filepickerg.cpp
+  fontpickerg.cpp
+  graphicc.cpp
+  headerctrlg.cpp
+  infobar.cpp
+  listbkg.cpp
+  logg.cpp
+  markuptext.cpp
+  msgdlgg.cpp
+  numdlgg.cpp
+  printps.cpp
+  prntdlgg.cpp
+  progdlgg.cpp
+  renderg.cpp
+  richmsgdlgg.cpp
+  scrlwing.cpp
+  selstore.cpp
+  spinctlg.cpp
+  splitter.cpp
+  srchctlg.cpp
+  statbmpg.cpp
+  stattextg.cpp
+  textdlgg.cpp
+  tipwin.cpp
+  toolbkg.cpp
+  treebkg.cpp
+  treectlg.cpp
+  vlbox.cpp
+  vscroll.cpp
+  accel.cpp
+  bmpbuttn.cpp
+  button.cpp
+  checkbox.cpp
+  checklst.cpp
+  choice.cpp
+  combobox.cpp
+  control.cpp
+  dialog.cpp
+  fdrepdlg.cpp
+  gauge.cpp
+  listbox.cpp
+  listctrl.cpp
+  menu.cpp
+  notebook.cpp
+  radiobox.cpp
+  radiobut.cpp
+  scrolbar.cpp
+  slider.cpp
+  spinbutt.cpp
+  statbmp.cpp
+  statbox.cpp
+  statline.cpp
+  stattext.cpp
+  textctrl.cpp
+  tglbtn.cpp
+  toolbar.cpp
+  statusbr.cpp
+  wx_vc11_core.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29u_core.lib
+------ Rebuild All started: Project: core, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  accelcmn.cpp
+  accesscmn.cpp
+  affinematrix2d.cpp
+  anidecod.cpp
+  appcmn.cpp
+  artprov.cpp
+  artstd.cpp
+  arttango.cpp
+  bmpbase.cpp
+  bmpbtncmn.cpp
+  bookctrl.cpp
+  btncmn.cpp
+  cairo.cpp
+  checkboxcmn.cpp
+  checklstcmn.cpp
+  choiccmn.cpp
+  clipcmn.cpp
+  clrpickercmn.cpp
+  cmdproc.cpp
+  cmndata.cpp
+  colourcmn.cpp
+  colourdata.cpp
+  combocmn.cpp
+  containr.cpp
+  cshelp.cpp
+  ctrlcmn.cpp
+  ctrlsub.cpp
+  dcbase.cpp
+  dcbufcmn.cpp
+  dcgraph.cpp
+  dcsvg.cpp
+  dirctrlcmn.cpp
+  dlgcmn.cpp
+  dndcmn.cpp
+  dobjcmn.cpp
+  docmdi.cpp
+  docview.cpp
+  dpycmn.cpp
+  dseldlg.cpp
+  effects.cpp
+  event.cpp
+  fddlgcmn.cpp
+  filectrlcmn.cpp
+  filehistorycmn.cpp
+  filepickercmn.cpp
+  fldlgcmn.cpp
+  fontcmn.cpp
+  fontdata.cpp
+  fontenumcmn.cpp
+  fontmap.cpp
+  fontpickercmn.cpp
+  fontutilcmn.cpp
+  framecmn.cpp
+  fs_mem.cpp
+  gaugecmn.cpp
+  gbsizer.cpp
+  gdicmn.cpp
+  geometry.cpp
+  gifdecod.cpp
+  graphcmn.cpp
+  headercolcmn.cpp
+  headerctrlcmn.cpp
+  helpbase.cpp
+  iconbndl.cpp
+  imagall.cpp
+  imagbmp.cpp
+  image.cpp
+  imagfill.cpp
+  imaggif.cpp
+  imagiff.cpp
+  imagjpeg.cpp
+  imagpcx.cpp
+  imagpng.cpp
+  imagpnm.cpp
+  imagtga.cpp
+  imagtiff.cpp
+  imagxpm.cpp
+  layout.cpp
+  lboxcmn.cpp
+  listctrlcmn.cpp
+  markupparser.cpp
+  matrix.cpp
+  menucmn.cpp
+  mousemanager.cpp
+  msgout.cpp
+  nbkbase.cpp
+  overlaycmn.cpp
+  ownerdrwcmn.cpp
+  panelcmn.cpp
+  paper.cpp
+  persist.cpp
+  pickerbase.cpp
+  popupcmn.cpp
+  prntbase.cpp
+  quantize.cpp
+  radiobtncmn.cpp
+  radiocmn.cpp
+  rearrangectrl.cpp
+  rendcmn.cpp
+  rgncmn.cpp
+  scrolbarcmn.cpp
+  settcmn.cpp
+  sizer.cpp
+  slidercmn.cpp
+  spinbtncmn.cpp
+  spinctrlcmn.cpp
+  srchcmn.cpp
+  statbar.cpp
+  statbmpcmn.cpp
+  statboxcmn.cpp
+  statlinecmn.cpp
+  stattextcmn.cpp
+  stockitem.cpp
+  tbarbase.cpp
+  textcmn.cpp
+  textentrycmn.cpp
+  toplvcmn.cpp
+  treebase.cpp
+  uiactioncmn.cpp
+  utilscmn.cpp
+  valgen.cpp
+  validate.cpp
+  valnum.cpp
+  valtext.cpp
+  wincmn.cpp
+  windowid.cpp
+  wrapsizer.cpp
+  xpmdecod.cpp
+  access.cpp
+  activex.cpp
+  anybutton.cpp
+  app.cpp
+  artmsw.cpp
+  automtn.cpp
+  bitmap.cpp
+  brush.cpp
+  caret.cpp
+  clipbrd.cpp
+  colordlg.cpp
+  colour.cpp
+  combo.cpp
+  cursor.cpp
+  data.cpp
+  dataobj.cpp
+  dc.cpp
+  dcclient.cpp
+  dcmemory.cpp
+  dcprint.cpp
+  dcscreen.cpp
+  dialup.cpp
+  dib.cpp
+  dirdlg.cpp
+  display.cpp
+  dragimag.cpp
+  dropsrc.cpp
+  droptgt.cpp
+  enhmeta.cpp
+  evtloop.cpp
+  filedlg.cpp
+  font.cpp
+  fontdlg.cpp
+  fontenum.cpp
+  fontutil.cpp
+  frame.cpp
+  gdiimage.cpp
+  gdiobj.cpp
+  gdiplus.cpp
+  graphics.cpp
+  headerctrl.cpp
+  helpchm.cpp
+  helpwin.cpp
+  icon.cpp
+  imaglist.cpp
+  iniconf.cpp
+  main.cpp
+  mdi.cpp
+  menuitem.cpp
+  metafile.cpp
+  minifram.cpp
+  msgdlg.cpp
+  mslu.cpp
+  nativdlg.cpp
+  nativewin.cpp
+  nonownedwnd.cpp
+  oleutils.cpp
+  ownerdrw.cpp
+  palette.cpp
+  panel.cpp
+  pen.cpp
+  popupwin.cpp
+  printdlg.cpp
+  printwin.cpp
+  progdlg.cpp
+  region.cpp
+  renderer.cpp
+  richmsgdlg.cpp
+  settings.cpp
+  spinctrl.cpp
+  statusbar.cpp
+  textentry.cpp
+  tooltip.cpp
+  toplevel.cpp
+  treectrl.cpp
+  uiaction.cpp
+  utilsgui.cpp
+  uuid.cpp
+  uxtheme.cpp
+  volume.cpp
+  window.cpp
+  busyinfo.cpp
+  buttonbar.cpp
+  choicbkg.cpp
+  choicdgg.cpp
+  clrpickerg.cpp
+  collpaneg.cpp
+  combog.cpp
+  dcpsg.cpp
+  dirctrlg.cpp
+  dragimgg.cpp
+  filectrlg.cpp
+  filepickerg.cpp
+  fontpickerg.cpp
+  graphicc.cpp
+  headerctrlg.cpp
+  infobar.cpp
+  listbkg.cpp
+  logg.cpp
+  markuptext.cpp
+  msgdlgg.cpp
+  numdlgg.cpp
+  printps.cpp
+  prntdlgg.cpp
+  progdlgg.cpp
+  renderg.cpp
+  richmsgdlgg.cpp
+  scrlwing.cpp
+  selstore.cpp
+  spinctlg.cpp
+  splitter.cpp
+  srchctlg.cpp
+  statbmpg.cpp
+  stattextg.cpp
+  textdlgg.cpp
+  tipwin.cpp
+  toolbkg.cpp
+  treebkg.cpp
+  treectlg.cpp
+  vlbox.cpp
+  vscroll.cpp
+  accel.cpp
+  bmpbuttn.cpp
+  button.cpp
+  checkbox.cpp
+  checklst.cpp
+  choice.cpp
+  combobox.cpp
+  control.cpp
+  dialog.cpp
+  fdrepdlg.cpp
+  gauge.cpp
+  listbox.cpp
+  listctrl.cpp
+  menu.cpp
+  notebook.cpp
+  radiobox.cpp
+  radiobut.cpp
+  scrolbar.cpp
+  slider.cpp
+  spinbutt.cpp
+  statbmp.cpp
+  statbox.cpp
+  statline.cpp
+  stattext.cpp
+  textctrl.cpp
+  tglbtn.cpp
+  toolbar.cpp
+  statusbr.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmsw29u_core.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_core_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxmsw29u_core) does not match the Linker's OutputFile property value (wxmsw294u_core_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: core, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  accelcmn.cpp
+  accesscmn.cpp
+  affinematrix2d.cpp
+  anidecod.cpp
+  appcmn.cpp
+  artprov.cpp
+  artstd.cpp
+  arttango.cpp
+  bmpbase.cpp
+  bmpbtncmn.cpp
+  bookctrl.cpp
+  btncmn.cpp
+  cairo.cpp
+  checkboxcmn.cpp
+  checklstcmn.cpp
+  choiccmn.cpp
+  clipcmn.cpp
+  clrpickercmn.cpp
+  cmdproc.cpp
+  cmndata.cpp
+  colourcmn.cpp
+  colourdata.cpp
+  combocmn.cpp
+  containr.cpp
+  cshelp.cpp
+  ctrlcmn.cpp
+  ctrlsub.cpp
+  dcbase.cpp
+  dcbufcmn.cpp
+  dcgraph.cpp
+  dcsvg.cpp
+  dirctrlcmn.cpp
+  dlgcmn.cpp
+  dndcmn.cpp
+  dobjcmn.cpp
+  docmdi.cpp
+  docview.cpp
+  dpycmn.cpp
+  dseldlg.cpp
+  effects.cpp
+  event.cpp
+  fddlgcmn.cpp
+  filectrlcmn.cpp
+  filehistorycmn.cpp
+  filepickercmn.cpp
+  fldlgcmn.cpp
+  fontcmn.cpp
+  fontdata.cpp
+  fontenumcmn.cpp
+  fontmap.cpp
+  fontpickercmn.cpp
+  fontutilcmn.cpp
+  framecmn.cpp
+  fs_mem.cpp
+  gaugecmn.cpp
+  gbsizer.cpp
+  gdicmn.cpp
+  geometry.cpp
+  gifdecod.cpp
+  graphcmn.cpp
+  headercolcmn.cpp
+  headerctrlcmn.cpp
+  helpbase.cpp
+  iconbndl.cpp
+  imagall.cpp
+  imagbmp.cpp
+  image.cpp
+  imagfill.cpp
+  imaggif.cpp
+  imagiff.cpp
+  imagjpeg.cpp
+  imagpcx.cpp
+  imagpng.cpp
+  imagpnm.cpp
+  imagtga.cpp
+  imagtiff.cpp
+  imagxpm.cpp
+  layout.cpp
+  lboxcmn.cpp
+  listctrlcmn.cpp
+  markupparser.cpp
+  matrix.cpp
+  menucmn.cpp
+  mousemanager.cpp
+  msgout.cpp
+  nbkbase.cpp
+  overlaycmn.cpp
+  ownerdrwcmn.cpp
+  panelcmn.cpp
+  paper.cpp
+  persist.cpp
+  pickerbase.cpp
+  popupcmn.cpp
+  prntbase.cpp
+  quantize.cpp
+  radiobtncmn.cpp
+  radiocmn.cpp
+  rearrangectrl.cpp
+  rendcmn.cpp
+  rgncmn.cpp
+  scrolbarcmn.cpp
+  settcmn.cpp
+  sizer.cpp
+  slidercmn.cpp
+  spinbtncmn.cpp
+  spinctrlcmn.cpp
+  srchcmn.cpp
+  statbar.cpp
+  statbmpcmn.cpp
+  statboxcmn.cpp
+  statlinecmn.cpp
+  stattextcmn.cpp
+  stockitem.cpp
+  tbarbase.cpp
+  textcmn.cpp
+  textentrycmn.cpp
+  toplvcmn.cpp
+  treebase.cpp
+  uiactioncmn.cpp
+  utilscmn.cpp
+  valgen.cpp
+  validate.cpp
+  valnum.cpp
+  valtext.cpp
+  wincmn.cpp
+  windowid.cpp
+  wrapsizer.cpp
+  xpmdecod.cpp
+  access.cpp
+  activex.cpp
+  anybutton.cpp
+  app.cpp
+  artmsw.cpp
+  automtn.cpp
+  bitmap.cpp
+  brush.cpp
+  caret.cpp
+  clipbrd.cpp
+  colordlg.cpp
+  colour.cpp
+  combo.cpp
+  cursor.cpp
+  data.cpp
+  dataobj.cpp
+  dc.cpp
+  dcclient.cpp
+  dcmemory.cpp
+  dcprint.cpp
+  dcscreen.cpp
+  dialup.cpp
+  dib.cpp
+  dirdlg.cpp
+  display.cpp
+  dragimag.cpp
+  dropsrc.cpp
+  droptgt.cpp
+  enhmeta.cpp
+  evtloop.cpp
+  filedlg.cpp
+  font.cpp
+  fontdlg.cpp
+  fontenum.cpp
+  fontutil.cpp
+  frame.cpp
+  gdiimage.cpp
+  gdiobj.cpp
+  gdiplus.cpp
+  graphics.cpp
+  headerctrl.cpp
+  helpchm.cpp
+  helpwin.cpp
+  icon.cpp
+  imaglist.cpp
+  iniconf.cpp
+  main.cpp
+  mdi.cpp
+  menuitem.cpp
+  metafile.cpp
+  minifram.cpp
+  msgdlg.cpp
+  mslu.cpp
+  nativdlg.cpp
+  nativewin.cpp
+  nonownedwnd.cpp
+  oleutils.cpp
+  ownerdrw.cpp
+  palette.cpp
+  panel.cpp
+  pen.cpp
+  popupwin.cpp
+  printdlg.cpp
+  printwin.cpp
+  progdlg.cpp
+  region.cpp
+  renderer.cpp
+  richmsgdlg.cpp
+  settings.cpp
+  spinctrl.cpp
+  statusbar.cpp
+  textentry.cpp
+  tooltip.cpp
+  toplevel.cpp
+  treectrl.cpp
+  uiaction.cpp
+  utilsgui.cpp
+  uuid.cpp
+  uxtheme.cpp
+  volume.cpp
+  window.cpp
+  busyinfo.cpp
+  buttonbar.cpp
+  choicbkg.cpp
+  choicdgg.cpp
+  clrpickerg.cpp
+  collpaneg.cpp
+  combog.cpp
+  dcpsg.cpp
+  dirctrlg.cpp
+  dragimgg.cpp
+  filectrlg.cpp
+  filepickerg.cpp
+  fontpickerg.cpp
+  graphicc.cpp
+  headerctrlg.cpp
+  infobar.cpp
+  listbkg.cpp
+  logg.cpp
+  markuptext.cpp
+  msgdlgg.cpp
+  numdlgg.cpp
+  printps.cpp
+  prntdlgg.cpp
+  progdlgg.cpp
+  renderg.cpp
+  richmsgdlgg.cpp
+  scrlwing.cpp
+  selstore.cpp
+  spinctlg.cpp
+  splitter.cpp
+  srchctlg.cpp
+  statbmpg.cpp
+  stattextg.cpp
+  textdlgg.cpp
+  tipwin.cpp
+  toolbkg.cpp
+  treebkg.cpp
+  treectlg.cpp
+  vlbox.cpp
+  vscroll.cpp
+  accel.cpp
+  bmpbuttn.cpp
+  button.cpp
+  checkbox.cpp
+  checklst.cpp
+  choice.cpp
+  combobox.cpp
+  control.cpp
+  dialog.cpp
+  fdrepdlg.cpp
+  gauge.cpp
+  listbox.cpp
+  listctrl.cpp
+  menu.cpp
+  notebook.cpp
+  radiobox.cpp
+  radiobut.cpp
+  scrolbar.cpp
+  slider.cpp
+  spinbutt.cpp
+  statbmp.cpp
+  statbox.cpp
+  statline.cpp
+  stattext.cpp
+  textctrl.cpp
+  tglbtn.cpp
+  toolbar.cpp
+  statusbr.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmsw29ud_core.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_core_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(wxmsw29ud_core) does not match the Linker's OutputFile property value (wxmsw294ud_core_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_core.lib and object ..\..\lib\vc_dll\wxmsw29ud_core.exp
+  wx_vc11_core.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmsw29ud_core.dll
+------ Rebuild All started: Project: core, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  accelcmn.cpp
+  accesscmn.cpp
+  affinematrix2d.cpp
+  anidecod.cpp
+  appcmn.cpp
+  artprov.cpp
+  artstd.cpp
+  arttango.cpp
+  bmpbase.cpp
+  bmpbtncmn.cpp
+  bookctrl.cpp
+  btncmn.cpp
+  cairo.cpp
+  checkboxcmn.cpp
+  checklstcmn.cpp
+  choiccmn.cpp
+  clipcmn.cpp
+  clrpickercmn.cpp
+  cmdproc.cpp
+  cmndata.cpp
+  colourcmn.cpp
+  colourdata.cpp
+  combocmn.cpp
+  containr.cpp
+  cshelp.cpp
+  ctrlcmn.cpp
+  ctrlsub.cpp
+  dcbase.cpp
+  dcbufcmn.cpp
+  dcgraph.cpp
+  dcsvg.cpp
+  dirctrlcmn.cpp
+  dlgcmn.cpp
+  dndcmn.cpp
+  dobjcmn.cpp
+  docmdi.cpp
+  docview.cpp
+  dpycmn.cpp
+  dseldlg.cpp
+  effects.cpp
+  event.cpp
+  fddlgcmn.cpp
+  filectrlcmn.cpp
+  filehistorycmn.cpp
+  filepickercmn.cpp
+  fldlgcmn.cpp
+  fontcmn.cpp
+  fontdata.cpp
+  fontenumcmn.cpp
+  fontmap.cpp
+  fontpickercmn.cpp
+  fontutilcmn.cpp
+  framecmn.cpp
+  fs_mem.cpp
+  gaugecmn.cpp
+  gbsizer.cpp
+  gdicmn.cpp
+  geometry.cpp
+  gifdecod.cpp
+  graphcmn.cpp
+  headercolcmn.cpp
+  headerctrlcmn.cpp
+  helpbase.cpp
+  iconbndl.cpp
+  imagall.cpp
+  imagbmp.cpp
+  image.cpp
+  imagfill.cpp
+  imaggif.cpp
+  imagiff.cpp
+  imagjpeg.cpp
+  imagpcx.cpp
+  imagpng.cpp
+  imagpnm.cpp
+  imagtga.cpp
+  imagtiff.cpp
+  imagxpm.cpp
+  layout.cpp
+  lboxcmn.cpp
+  listctrlcmn.cpp
+  markupparser.cpp
+  matrix.cpp
+  menucmn.cpp
+  mousemanager.cpp
+  msgout.cpp
+  nbkbase.cpp
+  overlaycmn.cpp
+  ownerdrwcmn.cpp
+  panelcmn.cpp
+  paper.cpp
+  persist.cpp
+  pickerbase.cpp
+  popupcmn.cpp
+  prntbase.cpp
+  quantize.cpp
+  radiobtncmn.cpp
+  radiocmn.cpp
+  rearrangectrl.cpp
+  rendcmn.cpp
+  rgncmn.cpp
+  scrolbarcmn.cpp
+  settcmn.cpp
+  sizer.cpp
+  slidercmn.cpp
+  spinbtncmn.cpp
+  spinctrlcmn.cpp
+  srchcmn.cpp
+  statbar.cpp
+  statbmpcmn.cpp
+  statboxcmn.cpp
+  statlinecmn.cpp
+  stattextcmn.cpp
+  stockitem.cpp
+  tbarbase.cpp
+  textcmn.cpp
+  textentrycmn.cpp
+  toplvcmn.cpp
+  treebase.cpp
+  uiactioncmn.cpp
+  utilscmn.cpp
+  valgen.cpp
+  validate.cpp
+  valnum.cpp
+  valtext.cpp
+  wincmn.cpp
+  windowid.cpp
+  wrapsizer.cpp
+  xpmdecod.cpp
+  access.cpp
+  activex.cpp
+  anybutton.cpp
+  app.cpp
+  artmsw.cpp
+  automtn.cpp
+  bitmap.cpp
+  brush.cpp
+  caret.cpp
+  clipbrd.cpp
+  colordlg.cpp
+  colour.cpp
+  combo.cpp
+  cursor.cpp
+  data.cpp
+  dataobj.cpp
+  dc.cpp
+  dcclient.cpp
+  dcmemory.cpp
+  dcprint.cpp
+  dcscreen.cpp
+  dialup.cpp
+  dib.cpp
+  dirdlg.cpp
+  display.cpp
+  dragimag.cpp
+  dropsrc.cpp
+  droptgt.cpp
+  enhmeta.cpp
+  evtloop.cpp
+  filedlg.cpp
+  font.cpp
+  fontdlg.cpp
+  fontenum.cpp
+  fontutil.cpp
+  frame.cpp
+  gdiimage.cpp
+  gdiobj.cpp
+  gdiplus.cpp
+  graphics.cpp
+  headerctrl.cpp
+  helpchm.cpp
+  helpwin.cpp
+  icon.cpp
+  imaglist.cpp
+  iniconf.cpp
+  main.cpp
+  mdi.cpp
+  menuitem.cpp
+  metafile.cpp
+  minifram.cpp
+  msgdlg.cpp
+  mslu.cpp
+  nativdlg.cpp
+  nativewin.cpp
+  nonownedwnd.cpp
+  oleutils.cpp
+  ownerdrw.cpp
+  palette.cpp
+  panel.cpp
+  pen.cpp
+  popupwin.cpp
+  printdlg.cpp
+  printwin.cpp
+  progdlg.cpp
+  region.cpp
+  renderer.cpp
+  richmsgdlg.cpp
+  settings.cpp
+  spinctrl.cpp
+  statusbar.cpp
+  textentry.cpp
+  tooltip.cpp
+  toplevel.cpp
+  treectrl.cpp
+  uiaction.cpp
+  utilsgui.cpp
+  uuid.cpp
+  uxtheme.cpp
+  volume.cpp
+  window.cpp
+  busyinfo.cpp
+  buttonbar.cpp
+  choicbkg.cpp
+  choicdgg.cpp
+  clrpickerg.cpp
+  collpaneg.cpp
+  combog.cpp
+  dcpsg.cpp
+  dirctrlg.cpp
+  dragimgg.cpp
+  filectrlg.cpp
+  filepickerg.cpp
+  fontpickerg.cpp
+  graphicc.cpp
+  headerctrlg.cpp
+  infobar.cpp
+  listbkg.cpp
+  logg.cpp
+  markuptext.cpp
+  msgdlgg.cpp
+  numdlgg.cpp
+  printps.cpp
+  prntdlgg.cpp
+  progdlgg.cpp
+  renderg.cpp
+  richmsgdlgg.cpp
+  scrlwing.cpp
+  selstore.cpp
+  spinctlg.cpp
+  splitter.cpp
+  srchctlg.cpp
+  statbmpg.cpp
+  stattextg.cpp
+  textdlgg.cpp
+  tipwin.cpp
+  toolbkg.cpp
+  treebkg.cpp
+  treectlg.cpp
+  vlbox.cpp
+  vscroll.cpp
+  accel.cpp
+  bmpbuttn.cpp
+  button.cpp
+  checkbox.cpp
+  checklst.cpp
+  choice.cpp
+  combobox.cpp
+  control.cpp
+  dialog.cpp
+  fdrepdlg.cpp
+  gauge.cpp
+  listbox.cpp
+  listctrl.cpp
+  menu.cpp
+  notebook.cpp
+  radiobox.cpp
+  radiobut.cpp
+  scrolbar.cpp
+  slider.cpp
+  spinbutt.cpp
+  statbmp.cpp
+  statbox.cpp
+  statline.cpp
+  stattext.cpp
+  textctrl.cpp
+  tglbtn.cpp
+  toolbar.cpp
+  statusbr.cpp
+  wx_vc11_core.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29ud_core.lib
+------ Rebuild All started: Project: adv, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  animatecmn.cpp
+  bmpcboxcmn.cpp
+  calctrlcmn.cpp
+  datavcmn.cpp
+  gridcmn.cpp
+  hyperlnkcmn.cpp
+  odcombocmn.cpp
+  richtooltipcmn.cpp
+  taskbarcmn.cpp
+  aboutdlg.cpp
+  bmpcbox.cpp
+  calctrl.cpp
+  commandlinkbutton.cpp
+  datecontrols.cpp
+  datectrl.cpp
+  datetimectrl.cpp
+  hyperlink.cpp
+  joystick.cpp
+  notifmsg.cpp
+  richtooltip.cpp
+  sound.cpp
+  taskbar.cpp
+  timectrl.cpp
+  aboutdlgg.cpp
+  animateg.cpp
+  bannerwindow.cpp
+  bmpcboxg.cpp
+  calctrlg.cpp
+  commandlinkbuttong.cpp
+  datavgen.cpp
+  datectlg.cpp
+  editlbox.cpp
+  grid.cpp
+  gridctrl.cpp
+  grideditors.cpp
+  gridsel.cpp
+  helpext.cpp
+  hyperlinkg.cpp
+  laywin.cpp
+  notifmsgg.cpp
+  odcombo.cpp
+  propdlg.cpp
+  richtooltipg.cpp
+  sashwin.cpp
+  splash.cpp
+  timectrlg.cpp
+  tipdlg.cpp
+  treelist.cpp
+  wizard.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw294u_adv_vc_custom.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_adv.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxmsw294u_adv_vc_custom) does not match the Library's OutputFile property value (wxmsw29u_adv). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_adv.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw294u_adv_vc_custom.lib
+------ Rebuild All started: Project: adv, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  animatecmn.cpp
+  bmpcboxcmn.cpp
+  calctrlcmn.cpp
+  datavcmn.cpp
+  gridcmn.cpp
+  hyperlnkcmn.cpp
+  odcombocmn.cpp
+  richtooltipcmn.cpp
+  taskbarcmn.cpp
+  aboutdlg.cpp
+  bmpcbox.cpp
+  calctrl.cpp
+  commandlinkbutton.cpp
+  datecontrols.cpp
+  datectrl.cpp
+  datetimectrl.cpp
+  hyperlink.cpp
+  joystick.cpp
+  notifmsg.cpp
+  richtooltip.cpp
+  sound.cpp
+  taskbar.cpp
+  timectrl.cpp
+  aboutdlgg.cpp
+  animateg.cpp
+  bannerwindow.cpp
+  bmpcboxg.cpp
+  calctrlg.cpp
+  commandlinkbuttong.cpp
+  datavgen.cpp
+  datectlg.cpp
+  editlbox.cpp
+  grid.cpp
+  gridctrl.cpp
+  grideditors.cpp
+  gridsel.cpp
+  helpext.cpp
+  hyperlinkg.cpp
+  laywin.cpp
+  notifmsgg.cpp
+  odcombo.cpp
+  propdlg.cpp
+  richtooltipg.cpp
+  sashwin.cpp
+  splash.cpp
+  timectrlg.cpp
+  tipdlg.cpp
+  treelist.cpp
+  wizard.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\adv.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_adv_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(adv) does not match the Linker's OutputFile property value (wxmsw294u_adv_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: adv, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  animatecmn.cpp
+  bmpcboxcmn.cpp
+  calctrlcmn.cpp
+  datavcmn.cpp
+  gridcmn.cpp
+  hyperlnkcmn.cpp
+  odcombocmn.cpp
+  richtooltipcmn.cpp
+  taskbarcmn.cpp
+  aboutdlg.cpp
+  bmpcbox.cpp
+  calctrl.cpp
+  commandlinkbutton.cpp
+  datecontrols.cpp
+  datectrl.cpp
+  datetimectrl.cpp
+  hyperlink.cpp
+  joystick.cpp
+  notifmsg.cpp
+  richtooltip.cpp
+  sound.cpp
+  taskbar.cpp
+  timectrl.cpp
+  aboutdlgg.cpp
+  animateg.cpp
+  bannerwindow.cpp
+  bmpcboxg.cpp
+  calctrlg.cpp
+  commandlinkbuttong.cpp
+  datavgen.cpp
+  datectlg.cpp
+  editlbox.cpp
+  grid.cpp
+  gridctrl.cpp
+  grideditors.cpp
+  gridsel.cpp
+  helpext.cpp
+  hyperlinkg.cpp
+  laywin.cpp
+  notifmsgg.cpp
+  odcombo.cpp
+  propdlg.cpp
+  richtooltipg.cpp
+  sashwin.cpp
+  splash.cpp
+  timectrlg.cpp
+  tipdlg.cpp
+  treelist.cpp
+  wizard.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\adv.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_adv_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(adv) does not match the Linker's OutputFile property value (wxmsw294ud_adv_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_adv.lib and object ..\..\lib\vc_dll\wxmsw29ud_adv.exp
+  wx_vc11_adv.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\adv.dll
+------ Rebuild All started: Project: adv, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  animatecmn.cpp
+  bmpcboxcmn.cpp
+  calctrlcmn.cpp
+  datavcmn.cpp
+  gridcmn.cpp
+  hyperlnkcmn.cpp
+  odcombocmn.cpp
+  richtooltipcmn.cpp
+  taskbarcmn.cpp
+  aboutdlg.cpp
+  bmpcbox.cpp
+  calctrl.cpp
+  commandlinkbutton.cpp
+  datecontrols.cpp
+  datectrl.cpp
+  datetimectrl.cpp
+  hyperlink.cpp
+  joystick.cpp
+  notifmsg.cpp
+  richtooltip.cpp
+  sound.cpp
+  taskbar.cpp
+  timectrl.cpp
+  aboutdlgg.cpp
+  animateg.cpp
+  bannerwindow.cpp
+  bmpcboxg.cpp
+  calctrlg.cpp
+  commandlinkbuttong.cpp
+  datavgen.cpp
+  datectlg.cpp
+  editlbox.cpp
+  grid.cpp
+  gridctrl.cpp
+  grideditors.cpp
+  gridsel.cpp
+  helpext.cpp
+  hyperlinkg.cpp
+  laywin.cpp
+  notifmsgg.cpp
+  odcombo.cpp
+  propdlg.cpp
+  richtooltipg.cpp
+  sashwin.cpp
+  splash.cpp
+  timectrlg.cpp
+  tipdlg.cpp
+  treelist.cpp
+  wizard.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw294ud_adv_vc_custom.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_adv.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(wxmsw294ud_adv_vc_custom) does not match the Library's OutputFile property value (wxmsw29ud_adv). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_adv.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw294ud_adv_vc_custom.lib
+------ Rebuild All started: Project: media, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  mediactrlcmn.cpp
+  mediactrl_am.cpp
+  mediactrl_qt.cpp
+  mediactrl_wmp10.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\media.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_media.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(media) does not match the Library's OutputFile property value (wxmsw29u_media). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_media.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\media.lib
+------ Rebuild All started: Project: media, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  mediactrlcmn.cpp
+  mediactrl_am.cpp
+  mediactrl_qt.cpp
+  mediactrl_wmp10.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\media.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_media_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(media) does not match the Linker's OutputFile property value (wxmsw294u_media_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: media, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  mediactrlcmn.cpp
+  mediactrl_am.cpp
+  mediactrl_qt.cpp
+  mediactrl_wmp10.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\media.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_media_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(media) does not match the Linker's OutputFile property value (wxmsw294ud_media_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_media.lib and object ..\..\lib\vc_dll\wxmsw29ud_media.exp
+  wx_vc11_media.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\media.dll
+------ Rebuild All started: Project: media, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  mediactrlcmn.cpp
+  mediactrl_am.cpp
+  mediactrl_qt.cpp
+  mediactrl_wmp10.cpp
+  wx_vc11_media.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29d_media.lib
+------ Rebuild All started: Project: html, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  helpbest.cpp
+  htmllbox.cpp
+  helpctrl.cpp
+  helpdata.cpp
+  helpdlg.cpp
+  helpfrm.cpp
+  helpwnd.cpp
+  htmlcell.cpp
+  htmlfilt.cpp
+  htmlpars.cpp
+  htmltag.cpp
+  htmlwin.cpp
+  htmprint.cpp
+  m_dflist.cpp
+  m_fonts.cpp
+  m_hline.cpp
+  m_image.cpp
+  m_layout.cpp
+  m_links.cpp
+  m_list.cpp
+  m_pre.cpp
+  m_span.cpp
+  m_style.cpp
+  m_tables.cpp
+  styleparams.cpp
+  winpars.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\html.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_html.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(html) does not match the Library's OutputFile property value (wxmsw29u_html). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_html.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\html.lib
+------ Rebuild All started: Project: html, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  helpbest.cpp
+  htmllbox.cpp
+  helpctrl.cpp
+  helpdata.cpp
+  helpdlg.cpp
+  helpfrm.cpp
+  helpwnd.cpp
+  htmlcell.cpp
+  htmlfilt.cpp
+  htmlpars.cpp
+  htmltag.cpp
+  htmlwin.cpp
+  htmprint.cpp
+  m_dflist.cpp
+  m_fonts.cpp
+  m_hline.cpp
+  m_image.cpp
+  m_layout.cpp
+  m_links.cpp
+  m_list.cpp
+  m_pre.cpp
+  m_span.cpp
+  m_style.cpp
+  m_tables.cpp
+  styleparams.cpp
+  winpars.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\html.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_html_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(html) does not match the Linker's OutputFile property value (wxmsw294u_html_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: html, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  helpbest.cpp
+  htmllbox.cpp
+  helpctrl.cpp
+  helpdata.cpp
+  helpdlg.cpp
+  helpfrm.cpp
+  helpwnd.cpp
+  htmlcell.cpp
+  htmlfilt.cpp
+  htmlpars.cpp
+  htmltag.cpp
+  htmlwin.cpp
+  htmprint.cpp
+  m_dflist.cpp
+  m_fonts.cpp
+  m_hline.cpp
+  m_image.cpp
+  m_layout.cpp
+  m_links.cpp
+  m_list.cpp
+  m_pre.cpp
+  m_span.cpp
+  m_style.cpp
+  m_tables.cpp
+  styleparams.cpp
+  winpars.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\html.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_html_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(html) does not match the Linker's OutputFile property value (wxmsw294ud_html_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_html.lib and object ..\..\lib\vc_dll\wxmsw29ud_html.exp
+  wx_vc11_html.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\html.dll
+------ Rebuild All started: Project: html, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  helpbest.cpp
+  htmllbox.cpp
+  helpctrl.cpp
+  helpdata.cpp
+  helpdlg.cpp
+  helpfrm.cpp
+  helpwnd.cpp
+  htmlcell.cpp
+  htmlfilt.cpp
+  htmlpars.cpp
+  htmltag.cpp
+  htmlwin.cpp
+  htmprint.cpp
+  m_dflist.cpp
+  m_fonts.cpp
+  m_hline.cpp
+  m_image.cpp
+  m_layout.cpp
+  m_links.cpp
+  m_list.cpp
+  m_pre.cpp
+  m_span.cpp
+  m_style.cpp
+  m_tables.cpp
+  styleparams.cpp
+  winpars.cpp
+  wx_vc11_html.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29d_html.lib
+------ Rebuild All started: Project: webview, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  webview.cpp
+  webviewarchivehandler.cpp
+  webview_ie.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\webview.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_webview.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(webview) does not match the Library's OutputFile property value (wxmsw29u_webview). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_webview.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\webview.lib
+------ Rebuild All started: Project: webview, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  webview.cpp
+  webviewarchivehandler.cpp
+  webview_ie.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\webview.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_webview_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(webview) does not match the Linker's OutputFile property value (wxmsw294u_webview_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: webview, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  webview.cpp
+  webviewarchivehandler.cpp
+  webview_ie.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\webview.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_webview_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(webview) does not match the Linker's OutputFile property value (wxmsw294ud_webview_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_webview.lib and object ..\..\lib\vc_dll\wxmsw29ud_webview.exp
+  wx_vc11_webview.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\webview.dll
+------ Rebuild All started: Project: webview, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  webview.cpp
+  webviewarchivehandler.cpp
+  webview_ie.cpp
+  wx_vc11_webview.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29d_webview.lib
+------ Rebuild All started: Project: qa, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  debugrpt.cpp
+  dbgrptg.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\qa.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_qa.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(qa) does not match the Library's OutputFile property value (wxmsw29u_qa). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\qa.lib
+------ Rebuild All started: Project: qa, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  debugrpt.cpp
+  dbgrptg.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\qa.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_qa_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(qa) does not match the Linker's OutputFile property value (wxmsw294u_qa_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: qa, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  debugrpt.cpp
+  dbgrptg.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\qa.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_qa_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(qa) does not match the Linker's OutputFile property value (wxmsw294ud_qa_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: cannot open file '..\..\lib\vc_dll\wxbase29ud_xml.lib'
+------ Rebuild All started: Project: qa, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  debugrpt.cpp
+  dbgrptg.cpp
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\wxmsw29d_qa.lib
+------ Rebuild All started: Project: xml, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xtixml.cpp
+  xml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xml.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxbase29u_xml.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(xml) does not match the Library's OutputFile property value (wxbase29u_xml). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_xml.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xml.lib
+------ Rebuild All started: Project: xml, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xtixml.cpp
+  xml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xml.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294u_xml_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(xml) does not match the Linker's OutputFile property value (wxbase294u_xml_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxzlib.lib'
+------ Rebuild All started: Project: xml, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xtixml.cpp
+  xml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xml.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxbase294ud_xml_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(xml) does not match the Linker's OutputFile property value (wxbase294ud_xml_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxbase29ud_xml.lib and object ..\..\lib\vc_dll\wxbase29ud_xml.exp
+  wx_vc11_xml.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xml.dll
+------ Rebuild All started: Project: xml, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xtixml.cpp
+  xml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xmld.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxbase29ud_xml.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(xmld) does not match the Library's OutputFile property value (wxbase29ud_xml). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_xml.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xmld.lib
+------ Rebuild All started: Project: xrc, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xh_animatctrl.cpp
+  xh_bannerwindow.cpp
+  xh_bmp.cpp
+  xh_bmpbt.cpp
+  xh_bmpcbox.cpp
+  xh_bttn.cpp
+  xh_cald.cpp
+  xh_chckb.cpp
+  xh_chckl.cpp
+  xh_choic.cpp
+  xh_choicbk.cpp
+  xh_clrpicker.cpp
+  xh_cmdlinkbn.cpp
+  xh_collpane.cpp
+  xh_combo.cpp
+  xh_comboctrl.cpp
+  xh_datectrl.cpp
+  xh_dirpicker.cpp
+  xh_dlg.cpp
+  xh_editlbox.cpp
+  xh_filectrl.cpp
+  xh_filepicker.cpp
+  xh_fontpicker.cpp
+  xh_frame.cpp
+  xh_gauge.cpp
+  xh_gdctl.cpp
+  xh_grid.cpp
+  xh_html.cpp
+  xh_htmllbox.cpp
+  xh_hyperlink.cpp
+  xh_listb.cpp
+  xh_listbk.cpp
+  xh_listc.cpp
+  xh_mdi.cpp
+  xh_menu.cpp
+  xh_notbk.cpp
+  xh_odcombo.cpp
+  xh_panel.cpp
+  xh_propdlg.cpp
+  xh_radbt.cpp
+  xh_radbx.cpp
+  xh_scrol.cpp
+  xh_scwin.cpp
+  xh_sizer.cpp
+  xh_slidr.cpp
+  xh_spin.cpp
+  xh_split.cpp
+  xh_srchctrl.cpp
+  xh_statbar.cpp
+  xh_stbmp.cpp
+  xh_stbox.cpp
+  xh_stlin.cpp
+  xh_sttxt.cpp
+  xh_text.cpp
+  xh_tglbtn.cpp
+  xh_timectrl.cpp
+  xh_toolb.cpp
+  xh_toolbk.cpp
+  xh_tree.cpp
+  xh_treebk.cpp
+  xh_unkwn.cpp
+  xh_wizrd.cpp
+  xmladv.cpp
+  xmlres.cpp
+  xmlrsall.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xrc.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_xrc.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(xrc) does not match the Library's OutputFile property value (wxmsw29u_xrc). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_xrc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xrc.lib
+------ Rebuild All started: Project: xrc, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xh_animatctrl.cpp
+  xh_bannerwindow.cpp
+  xh_bmp.cpp
+  xh_bmpbt.cpp
+  xh_bmpcbox.cpp
+  xh_bttn.cpp
+  xh_cald.cpp
+  xh_chckb.cpp
+  xh_chckl.cpp
+  xh_choic.cpp
+  xh_choicbk.cpp
+  xh_clrpicker.cpp
+  xh_cmdlinkbn.cpp
+  xh_collpane.cpp
+  xh_combo.cpp
+  xh_comboctrl.cpp
+  xh_datectrl.cpp
+  xh_dirpicker.cpp
+  xh_dlg.cpp
+  xh_editlbox.cpp
+  xh_filectrl.cpp
+  xh_filepicker.cpp
+  xh_fontpicker.cpp
+  xh_frame.cpp
+  xh_gauge.cpp
+  xh_gdctl.cpp
+  xh_grid.cpp
+  xh_html.cpp
+  xh_htmllbox.cpp
+  xh_hyperlink.cpp
+  xh_listb.cpp
+  xh_listbk.cpp
+  xh_listc.cpp
+  xh_mdi.cpp
+  xh_menu.cpp
+  xh_notbk.cpp
+  xh_odcombo.cpp
+  xh_panel.cpp
+  xh_propdlg.cpp
+  xh_radbt.cpp
+  xh_radbx.cpp
+  xh_scrol.cpp
+  xh_scwin.cpp
+  xh_sizer.cpp
+  xh_slidr.cpp
+  xh_spin.cpp
+  xh_split.cpp
+  xh_srchctrl.cpp
+  xh_statbar.cpp
+  xh_stbmp.cpp
+  xh_stbox.cpp
+  xh_stlin.cpp
+  xh_sttxt.cpp
+  xh_text.cpp
+  xh_tglbtn.cpp
+  xh_timectrl.cpp
+  xh_toolb.cpp
+  xh_toolbk.cpp
+  xh_tree.cpp
+  xh_treebk.cpp
+  xh_unkwn.cpp
+  xh_wizrd.cpp
+  xmladv.cpp
+  xmlres.cpp
+  xmlrsall.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xrc.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_xrc_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(xrc) does not match the Linker's OutputFile property value (wxmsw294u_xrc_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: xrc, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xh_animatctrl.cpp
+  xh_bannerwindow.cpp
+  xh_bmp.cpp
+  xh_bmpbt.cpp
+  xh_bmpcbox.cpp
+  xh_bttn.cpp
+  xh_cald.cpp
+  xh_chckb.cpp
+  xh_chckl.cpp
+  xh_choic.cpp
+  xh_choicbk.cpp
+  xh_clrpicker.cpp
+  xh_cmdlinkbn.cpp
+  xh_collpane.cpp
+  xh_combo.cpp
+  xh_comboctrl.cpp
+  xh_datectrl.cpp
+  xh_dirpicker.cpp
+  xh_dlg.cpp
+  xh_editlbox.cpp
+  xh_filectrl.cpp
+  xh_filepicker.cpp
+  xh_fontpicker.cpp
+  xh_frame.cpp
+  xh_gauge.cpp
+  xh_gdctl.cpp
+  xh_grid.cpp
+  xh_html.cpp
+  xh_htmllbox.cpp
+  xh_hyperlink.cpp
+  xh_listb.cpp
+  xh_listbk.cpp
+  xh_listc.cpp
+  xh_mdi.cpp
+  xh_menu.cpp
+  xh_notbk.cpp
+  xh_odcombo.cpp
+  xh_panel.cpp
+  xh_propdlg.cpp
+  xh_radbt.cpp
+  xh_radbx.cpp
+  xh_scrol.cpp
+  xh_scwin.cpp
+  xh_sizer.cpp
+  xh_slidr.cpp
+  xh_spin.cpp
+  xh_split.cpp
+  xh_srchctrl.cpp
+  xh_statbar.cpp
+  xh_stbmp.cpp
+  xh_stbox.cpp
+  xh_stlin.cpp
+  xh_sttxt.cpp
+  xh_text.cpp
+  xh_tglbtn.cpp
+  xh_timectrl.cpp
+  xh_toolb.cpp
+  xh_toolbk.cpp
+  xh_tree.cpp
+  xh_treebk.cpp
+  xh_unkwn.cpp
+  xh_wizrd.cpp
+  xmladv.cpp
+  xmlres.cpp
+  xmlrsall.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xrc.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_xrc_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(xrc) does not match the Linker's OutputFile property value (wxmsw294ud_xrc_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_xrc.lib and object ..\..\lib\vc_dll\wxmsw29ud_xrc.exp
+  wx_vc11_xrc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\xrc.dll
+------ Rebuild All started: Project: xrc, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  xh_animatctrl.cpp
+  xh_bannerwindow.cpp
+  xh_bmp.cpp
+  xh_bmpbt.cpp
+  xh_bmpcbox.cpp
+  xh_bttn.cpp
+  xh_cald.cpp
+  xh_chckb.cpp
+  xh_chckl.cpp
+  xh_choic.cpp
+  xh_choicbk.cpp
+  xh_clrpicker.cpp
+  xh_cmdlinkbn.cpp
+  xh_collpane.cpp
+  xh_combo.cpp
+  xh_comboctrl.cpp
+  xh_datectrl.cpp
+  xh_dirpicker.cpp
+  xh_dlg.cpp
+  xh_editlbox.cpp
+  xh_filectrl.cpp
+  xh_filepicker.cpp
+  xh_fontpicker.cpp
+  xh_frame.cpp
+  xh_gauge.cpp
+  xh_gdctl.cpp
+  xh_grid.cpp
+  xh_html.cpp
+  xh_htmllbox.cpp
+  xh_hyperlink.cpp
+  xh_listb.cpp
+  xh_listbk.cpp
+  xh_listc.cpp
+  xh_mdi.cpp
+  xh_menu.cpp
+  xh_notbk.cpp
+  xh_odcombo.cpp
+  xh_panel.cpp
+  xh_propdlg.cpp
+  xh_radbt.cpp
+  xh_radbx.cpp
+  xh_scrol.cpp
+  xh_scwin.cpp
+  xh_sizer.cpp
+  xh_slidr.cpp
+  xh_spin.cpp
+  xh_split.cpp
+  xh_srchctrl.cpp
+  xh_statbar.cpp
+  xh_stbmp.cpp
+  xh_stbox.cpp
+  xh_stlin.cpp
+  xh_sttxt.cpp
+  xh_text.cpp
+  xh_tglbtn.cpp
+  xh_timectrl.cpp
+  xh_toolb.cpp
+  xh_toolbk.cpp
+  xh_tree.cpp
+  xh_treebk.cpp
+  xh_unkwn.cpp
+  xh_wizrd.cpp
+  xmladv.cpp
+  xmlres.cpp
+  xmlrsall.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xrcd.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_xrc.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(xrcd) does not match the Library's OutputFile property value (wxmsw29ud_xrc). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_xrc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\xrcd.lib
+------ Rebuild All started: Project: aui, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  auibar.cpp
+  auibook.cpp
+  dockart.cpp
+  floatpane.cpp
+  framemanager.cpp
+  tabart.cpp
+  tabmdi.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\aui.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_aui.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(aui) does not match the Library's OutputFile property value (wxmsw29u_aui). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_aui.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\aui.lib
+------ Rebuild All started: Project: aui, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  auibar.cpp
+  auibook.cpp
+  dockart.cpp
+  floatpane.cpp
+  framemanager.cpp
+  tabart.cpp
+  tabmdi.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\aui.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_aui_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(aui) does not match the Linker's OutputFile property value (wxmsw294u_aui_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: aui, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  auibar.cpp
+  auibook.cpp
+  dockart.cpp
+  floatpane.cpp
+  framemanager.cpp
+  tabart.cpp
+  tabmdi.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\aui.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_aui_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(aui) does not match the Linker's OutputFile property value (wxmsw294ud_aui_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_aui.lib and object ..\..\lib\vc_dll\wxmsw29ud_aui.exp
+  wx_vc11_aui.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\aui.dll
+------ Rebuild All started: Project: aui, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  auibar.cpp
+  auibook.cpp
+  dockart.cpp
+  floatpane.cpp
+  framemanager.cpp
+  tabart.cpp
+  tabmdi.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\auid.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_aui.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(auid) does not match the Library's OutputFile property value (wxmsw29ud_aui). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_aui.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\auid.lib
+------ Rebuild All started: Project: ribbon, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  art_aui.cpp
+  art_internal.cpp
+  art_msw.cpp
+  bar.cpp
+  buttonbar.cpp
+  control.cpp
+  gallery.cpp
+  page.cpp
+  panel.cpp
+  toolbar.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\ribbon.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_ribbon.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(ribbon) does not match the Library's OutputFile property value (wxmsw29u_ribbon). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_ribbon.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\ribbon.lib
+------ Rebuild All started: Project: ribbon, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  art_aui.cpp
+  art_internal.cpp
+  art_msw.cpp
+  bar.cpp
+  buttonbar.cpp
+  control.cpp
+  gallery.cpp
+  page.cpp
+  panel.cpp
+  toolbar.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\ribbon.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_ribbon_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(ribbon) does not match the Linker's OutputFile property value (wxmsw294u_ribbon_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: ribbon, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  art_aui.cpp
+  art_internal.cpp
+  art_msw.cpp
+  bar.cpp
+  buttonbar.cpp
+  control.cpp
+  gallery.cpp
+  page.cpp
+  panel.cpp
+  toolbar.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\ribbon.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_ribbon_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(ribbon) does not match the Linker's OutputFile property value (wxmsw294ud_ribbon_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_ribbon.lib and object ..\..\lib\vc_dll\wxmsw29ud_ribbon.exp
+  wx_vc11_ribbon.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\ribbon.dll
+------ Rebuild All started: Project: ribbon, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  art_aui.cpp
+  art_internal.cpp
+  art_msw.cpp
+  bar.cpp
+  buttonbar.cpp
+  control.cpp
+  gallery.cpp
+  page.cpp
+  panel.cpp
+  toolbar.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\ribbond.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_ribbon.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(ribbond) does not match the Library's OutputFile property value (wxmsw29ud_ribbon). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_ribbon.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\ribbond.lib
+------ Rebuild All started: Project: propgrid, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  advprops.cpp
+  editors.cpp
+  manager.cpp
+  property.cpp
+  propgrid.cpp
+  propgridiface.cpp
+  propgridpagestate.cpp
+  props.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\propgrid.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_propgrid.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(propgrid) does not match the Library's OutputFile property value (wxmsw29u_propgrid). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_propgrid.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\propgrid.lib
+------ Rebuild All started: Project: propgrid, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  advprops.cpp
+  editors.cpp
+  manager.cpp
+  property.cpp
+  propgrid.cpp
+  propgridiface.cpp
+  propgridpagestate.cpp
+  props.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\propgrid.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_propgrid_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(propgrid) does not match the Linker's OutputFile property value (wxmsw294u_propgrid_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: propgrid, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  advprops.cpp
+  editors.cpp
+  manager.cpp
+  property.cpp
+  propgrid.cpp
+  propgridiface.cpp
+  propgridpagestate.cpp
+  props.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\propgrid.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_propgrid_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(propgrid) does not match the Linker's OutputFile property value (wxmsw294ud_propgrid_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_propgrid.lib and object ..\..\lib\vc_dll\wxmsw29ud_propgrid.exp
+  wx_vc11_propgrid.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\propgrid.dll
+------ Rebuild All started: Project: propgrid, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  advprops.cpp
+  editors.cpp
+  manager.cpp
+  property.cpp
+  propgrid.cpp
+  propgridiface.cpp
+  propgridpagestate.cpp
+  props.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\propgridd.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_propgrid.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(propgridd) does not match the Library's OutputFile property value (wxmsw29ud_propgrid). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_propgrid.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\propgridd.lib
+------ Rebuild All started: Project: richtext, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  richtextbuffer.cpp
+  richtextctrl.cpp
+  richtextformatdlg.cpp
+  richtexthtml.cpp
+  richtextimagedlg.cpp
+  richtextprint.cpp
+  richtextstyledlg.cpp
+  richtextstyles.cpp
+  richtextsymboldlg.cpp
+  richtextxml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\richtext.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_richtext.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(richtext) does not match the Library's OutputFile property value (wxmsw29u_richtext). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_richtext.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\richtext.lib
+------ Rebuild All started: Project: richtext, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  richtextbuffer.cpp
+  richtextctrl.cpp
+  richtextformatdlg.cpp
+  richtexthtml.cpp
+  richtextimagedlg.cpp
+  richtextprint.cpp
+  richtextstyledlg.cpp
+  richtextstyles.cpp
+  richtextsymboldlg.cpp
+  richtextxml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\richtext.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_richtext_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(richtext) does not match the Linker's OutputFile property value (wxmsw294u_richtext_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: richtext, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  richtextbuffer.cpp
+  richtextctrl.cpp
+  richtextformatdlg.cpp
+  richtexthtml.cpp
+  richtextimagedlg.cpp
+  richtextprint.cpp
+  richtextstyledlg.cpp
+  richtextstyles.cpp
+  richtextsymboldlg.cpp
+  richtextxml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\richtext.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_richtext_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(richtext) does not match the Linker's OutputFile property value (wxmsw294ud_richtext_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_richtext.lib and object ..\..\lib\vc_dll\wxmsw29ud_richtext.exp
+  wx_vc11_richtext.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\richtext.dll
+------ Rebuild All started: Project: richtext, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  richtextbuffer.cpp
+  richtextctrl.cpp
+  richtextformatdlg.cpp
+  richtexthtml.cpp
+  richtextimagedlg.cpp
+  richtextprint.cpp
+  richtextstyledlg.cpp
+  richtextstyles.cpp
+  richtextsymboldlg.cpp
+  richtextxml.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\richtextd.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_richtext.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(richtextd) does not match the Library's OutputFile property value (wxmsw29ud_richtext). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_richtext.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\richtextd.lib
+------ Rebuild All started: Project: stc, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  PlatWX.cpp
+  ScintillaWX.cpp
+  stc.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\stc.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_stc.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(stc) does not match the Library's OutputFile property value (wxmsw29u_stc). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_stc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\stc.lib
+------ Rebuild All started: Project: stc, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  PlatWX.cpp
+  ScintillaWX.cpp
+  stc.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\stc.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_stc_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(stc) does not match the Linker's OutputFile property value (wxmsw294u_stc_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: stc, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  PlatWX.cpp
+  ScintillaWX.cpp
+  stc.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\stc.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_stc_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(stc) does not match the Linker's OutputFile property value (wxmsw294ud_stc_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_stc.lib and object ..\..\lib\vc_dll\wxmsw29ud_stc.exp
+  wx_vc11_stc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\stc.dll
+------ Rebuild All started: Project: stc, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  PlatWX.cpp
+  ScintillaWX.cpp
+  stc.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\stcd.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_stc.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(stcd) does not match the Library's OutputFile property value (wxmsw29ud_stc). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_stc.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\stcd.lib
+------ Rebuild All started: Project: gl, Configuration: Release Win32 ------
+  Creating ..\..\lib\vc_lib\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  glcmn.cpp
+  glcanvas.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\gl.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29u_gl.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(gl) does not match the Library's OutputFile property value (wxmsw29u_gl). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_gl.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\gl.lib
+------ Rebuild All started: Project: gl, Configuration: DLL Release Win32 ------
+  Creating ..\..\lib\vc_dll\mswu\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswu\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  glcmn.cpp
+  glcanvas.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\gl.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294u_gl_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(gl) does not match the Linker's OutputFile property value (wxmsw294u_gl_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1181: cannot open input file 'wxtiff.lib'
+------ Rebuild All started: Project: gl, Configuration: DLL Debug Win32 ------
+  Creating ..\..\lib\vc_dll\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_dll\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  glcmn.cpp
+  glcanvas.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\gl.dll) does not match the Linker's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_dll\wxmsw294ud_gl_vc_custom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(gl) does not match the Linker's OutputFile property value (wxmsw294ud_gl_vc_custom). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_gl.lib and object ..\..\lib\vc_dll\wxmsw29ud_gl.exp
+  wx_vc11_gl.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\gl.dll
+------ Rebuild All started: Project: gl, Configuration: Debug Win32 ------
+  Creating ..\..\lib\vc_lib\mswud\wx\setup.h
+  Zkopírované soubory:         1
+  Creating ..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h
+  genrcdefs.h
+  dummy.cpp
+  glcmn.cpp
+  glcanvas.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\gld.lib) does not match the Library's OutputFile property value (C:\wxWidgets-2.9.4\lib\vc_lib\wxmsw29ud_gl.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(gld) does not match the Library's OutputFile property value (wxmsw29ud_gl). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  wx_vc11_gl.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_lib\gld.lib
+========== Rebuild All: 75 succeeded, 17 failed, 0 skipped ==========
