@@ -167,7 +167,7 @@
       <BufferSecurityCheck>true</BufferSecurityCheck>
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
       <ObjectFileName>vc_mswud\wxregex\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxregexud.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxregexd.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -178,7 +178,7 @@
       <AdditionalIncludeDirectories>..\..\include;..\..\lib\vc_lib\mswud;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Lib>
-      <OutputFile>..\..\lib\vc_lib\wxregexud.lib</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wxregexd.lib</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
