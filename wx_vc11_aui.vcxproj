@@ -131,10 +131,12 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Universal Debug|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswunivud\aui\</IntDir>
+    <TargetName>wxmswuniv29ud_aui</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Universal Release|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswunivu\aui\</IntDir>
+    <TargetName>wxmswuniv29u_aui</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
@@ -155,12 +157,14 @@
     <IntDir>vc_mswunivuddll\aui\</IntDir>
     <LinkIncremental>true</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
+    <TargetName>wxmswuniv294ud_aui_vc_custom</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Universal Release|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswunivudll\aui\</IntDir>
     <LinkIncremental>false</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
+    <TargetName>wxmswuniv294u_aui_vc_custom</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>

@@ -131,12 +131,12 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Universal Debug|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswunivud\base\</IntDir>
-    <TargetName>wxbase29ud</TargetName>
+    <TargetName>wxmswunivbase29ud</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Universal Release|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswunivu\base\</IntDir>
-    <TargetName>wxbase29u</TargetName>
+    <TargetName>wxmswunivbase29u</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
@@ -157,14 +157,14 @@
     <IntDir>vc_mswunivuddll\base\</IntDir>
     <LinkIncremental>true</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxbase29ud</TargetName>
+    <TargetName>wxmswunivbase294ud_vc_custom</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Universal Release|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswunivudll\base\</IntDir>
     <LinkIncremental>false</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxbase29u</TargetName>
+    <TargetName>wxmswunivbase294u_vc_custom</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>
@@ -270,7 +270,7 @@
       <AdditionalIncludeDirectories>..\..\lib\vc_lib\mswunivud;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Lib>
-      <OutputFile>..\..\lib\vc_lib\wxbase29ud.lib</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wxmswunivbase29ud.lib</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
@@ -306,7 +306,7 @@
       <AdditionalIncludeDirectories>..\..\lib\vc_lib\mswunivu;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Lib>
-      <OutputFile>..\..\lib\vc_lib\wxbase29u.lib</OutputFile>
+      <OutputFile>..\..\lib\vc_lib\wxmswunivbase29u.lib</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
     </Lib>
     <Bscmake>
@@ -433,7 +433,7 @@
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxzlibd.lib;wxregexud.lib;wxexpatd.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxbase294ud_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmswunivbase294ud_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxbase29ud.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
@@ -475,7 +475,7 @@
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxzlib.lib;wxregexu.lib;wxexpat.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxbase294u_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmswunivbase294u_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxbase29u.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
