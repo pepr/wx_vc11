@@ -135,6 +135,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Universal Release|Win32'">
     <OutDir>..\..\lib\vc_lib\</OutDir>
     <IntDir>vc_mswunivu\wxscintilla\</IntDir>
+    <TargetName>wxscintilla</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
@@ -153,6 +154,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Universal Release|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswunivudll\wxscintilla\</IntDir>
+    <TargetName>wxscintilla</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>
