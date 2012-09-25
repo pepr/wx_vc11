@@ -1,0 +1,13 @@
+------ Build started: Project: qa, Configuration: DLL Universal Release Win32 ------
+     Creating library ..\..\lib\vc_dll\wxmswuniv29u_qa.lib and object ..\..\lib\vc_dll\wxmswuniv29u_qa.exp
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmswuniv294u_qa_vc_custom.dll
+------ Build started: Project: qa, Configuration: DLL Universal Debug Win32 ------
+     Creating library ..\..\lib\vc_dll\wxmswuniv29ud_qa.lib and object ..\..\lib\vc_dll\wxmswuniv29ud_qa.exp
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmswuniv294ud_qa_vc_custom.dll
+------ Build started: Project: qa, Configuration: DLL Release Win32 ------
+     Creating library ..\..\lib\vc_dll\wxmsw29u_qa.lib and object ..\..\lib\vc_dll\wxmsw29u_qa.exp
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmsw294u_qa_vc_custom.dll
+------ Build started: Project: qa, Configuration: DLL Debug Win32 ------
+     Creating library ..\..\lib\vc_dll\wxmsw29ud_qa.lib and object ..\..\lib\vc_dll\wxmsw29ud_qa.exp
+  wx_vc11_qa.vcxproj -> C:\wxWidgets-2.9.4\build\msw\..\..\lib\vc_dll\wxmsw294ud_qa_vc_custom.dll
+========== Build: 4 succeeded, 0 failed, 180 up-to-date, 0 skipped ==========
