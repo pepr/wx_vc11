@@ -143,28 +143,28 @@
     <IntDir>vc_mswuddll\richtext\</IntDir>
     <LinkIncremental>true</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxmsw294ud_richtext_vc_custom</TargetName>
+    <TargetName>wxmsw295ud_richtext_vc_custom</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswudll\richtext\</IntDir>
     <LinkIncremental>false</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxmsw294u_richtext_vc_custom</TargetName>
+    <TargetName>wxmsw295u_richtext_vc_custom</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Universal Debug|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswunivuddll\richtext\</IntDir>
     <LinkIncremental>true</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxmswuniv294ud_richtext_vc_custom</TargetName>
+    <TargetName>wxmswuniv295ud_richtext_vc_custom</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Universal Release|Win32'">
     <OutDir>..\..\lib\vc_dll\</OutDir>
     <IntDir>vc_mswunivudll\richtext\</IntDir>
     <LinkIncremental>false</LinkIncremental>
     <GenerateManifest>true</GenerateManifest>
-    <TargetName>wxmswuniv294u_richtext_vc_custom</TargetName>
+    <TargetName>wxmswuniv295u_richtext_vc_custom</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>
@@ -333,24 +333,24 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswuddll\wxprec_richtextdll.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswuddll\richtext\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmsw294ud_richtext_vc_custom.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmsw295ud_richtext_vc_custom.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>_DEBUG;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;_UNICODE;WXBUILDING;WXDLLNAME=wxmsw294ud_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;_UNICODE;WXBUILDING;WXDLLNAME=wxmsw295ud_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <Culture>0x0409</Culture>
       <AdditionalIncludeDirectories>..\..\lib\vc_dll\mswud;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxtiffd.lib;wxjpegd.lib;wxpngd.lib;wxzlibd.lib;wxregexud.lib;wxexpatd.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;..\..\lib\vc_dll\wxmsw29ud_adv.lib;..\..\lib\vc_dll\wxmsw29ud_html.lib;..\..\lib\vc_dll\wxbase29ud_xml.lib;..\..\lib\vc_dll\wxmsw29ud_core.lib;..\..\lib\vc_dll\wxbase29ud.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxmsw294ud_richtext_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmsw295ud_richtext_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxmsw29ud_richtext.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmsw294ud_richtext_vc_custom.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmsw295ud_richtext_vc_custom.pdb</ProgramDatabaseFile>
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <Bscmake>
@@ -375,24 +375,24 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswudll\wxprec_richtextdll.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswudll\richtext\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmsw294u_richtext_vc_custom.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmsw295u_richtext_vc_custom.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;NDEBUG;_UNICODE;WXBUILDING;WXDLLNAME=wxmsw294u_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;NDEBUG;_UNICODE;WXBUILDING;WXDLLNAME=wxmsw295u_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <Culture>0x0409</Culture>
       <AdditionalIncludeDirectories>..\..\lib\vc_dll\mswu;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxtiff.lib;wxjpeg.lib;wxpng.lib;wxzlib.lib;wxregexu.lib;wxexpat.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;..\..\lib\vc_dll\wxmsw29u_adv.lib;..\..\lib\vc_dll\wxmsw29u_html.lib;..\..\lib\vc_dll\wxbase29u_xml.lib;..\..\lib\vc_dll\wxmsw29u_core.lib;..\..\lib\vc_dll\wxbase29u.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxmsw294u_richtext_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmsw295u_richtext_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxmsw29u_richtext.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmsw294u_richtext_vc_custom.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmsw295u_richtext_vc_custom.pdb</ProgramDatabaseFile>
       <TargetMachine>MachineX86</TargetMachine>
       <OptimizeReferences>true</OptimizeReferences>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
@@ -421,24 +421,24 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswunivuddll\wxprec_richtextdll.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswunivuddll\richtext\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmswuniv294ud_richtext_vc_custom.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmswuniv295ud_richtext_vc_custom.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>_DEBUG;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;__WXUNIVERSAL__;_UNICODE;WXBUILDING;WXDLLNAME=wxmswuniv294ud_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;__WXUNIVERSAL__;_UNICODE;WXBUILDING;WXDLLNAME=wxmswuniv295ud_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <Culture>0x0409</Culture>
       <AdditionalIncludeDirectories>..\..\lib\vc_dll\mswunivud;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxtiffd.lib;wxjpegd.lib;wxpngd.lib;wxzlibd.lib;wxregexud.lib;wxexpatd.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;..\..\lib\vc_dll\wxmswuniv29ud_adv.lib;..\..\lib\vc_dll\wxmswuniv29ud_html.lib;..\..\lib\vc_dll\wxbase29ud_xml.lib;..\..\lib\vc_dll\wxmswuniv29ud_core.lib;..\..\lib\vc_dll\wxbase29ud.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxmswuniv294ud_richtext_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmswuniv295ud_richtext_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxmswuniv29ud_richtext.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmswuniv294ud_richtext_vc_custom.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmswuniv295ud_richtext_vc_custom.pdb</ProgramDatabaseFile>
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <Bscmake>
@@ -463,24 +463,24 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswunivudll\wxprec_richtextdll.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswunivudll\richtext\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmswuniv294u_richtext_vc_custom.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_dll\wxmswuniv295u_richtext_vc_custom.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;__WXUNIVERSAL__;NDEBUG;_UNICODE;WXBUILDING;WXDLLNAME=wxmswuniv294u_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;__WXUNIVERSAL__;NDEBUG;_UNICODE;WXBUILDING;WXDLLNAME=wxmswuniv295u_richtext_vc_custom;WXUSINGDLL;WXMAKINGDLL_RICHTEXT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <Culture>0x0409</Culture>
       <AdditionalIncludeDirectories>..\..\lib\vc_dll\mswunivu;..\..\include;..\..\src\tiff\libtiff;..\..\src\jpeg;..\..\src\png;..\..\src\zlib;..\..\src\regex;..\..\src\expat\lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>wxtiff.lib;wxjpeg.lib;wxpng.lib;wxzlib.lib;wxregexu.lib;wxexpat.lib;kernel32.lib;user32.lib;gdi32.lib;comdlg32.lib;winspool.lib;winmm.lib;shell32.lib;comctl32.lib;ole32.lib;oleaut32.lib;uuid.lib;rpcrt4.lib;advapi32.lib;wsock32.lib;wininet.lib;..\..\lib\vc_dll\wxmswuniv29u_adv.lib;..\..\lib\vc_dll\wxmswuniv29u_html.lib;..\..\lib\vc_dll\wxbase29u_xml.lib;..\..\lib\vc_dll\wxmswuniv29u_core.lib;..\..\lib\vc_dll\wxbase29u.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>..\..\lib\vc_dll\wxmswuniv294u_richtext_vc_custom.dll</OutputFile>
+      <OutputFile>..\..\lib\vc_dll\wxmswuniv295u_richtext_vc_custom.dll</OutputFile>
       <ImportLibrary>..\..\lib\vc_dll\wxmswuniv29u_richtext.lib</ImportLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib\vc_dll;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmswuniv294u_richtext_vc_custom.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>..\..\lib\vc_dll\wxmswuniv295u_richtext_vc_custom.pdb</ProgramDatabaseFile>
       <TargetMachine>MachineX86</TargetMachine>
       <OptimizeReferences>true</OptimizeReferences>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
