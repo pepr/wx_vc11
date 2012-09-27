@@ -926,6 +926,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Universal Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="..\..\src\msw\ole\oleutils.cpp" />
+    <ClCompile Include="..\..\src\msw\ole\safearray.cpp" />
     <ClCompile Include="..\..\src\msw\ownerdrw.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='DLL Universal Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='DLL Universal Release|Win32'">true</ExcludedFromBuild>
@@ -1709,6 +1710,7 @@
     <ClInclude Include="..\..\include\wx\msw\notebook.h" />
     <ClInclude Include="..\..\include\wx\msw\notifmsg.h" />
     <ClInclude Include="..\..\include\wx\msw\ole\oleutils.h" />
+    <ClInclude Include="..\..\include\wx\msw\ole\safearray.h" />
     <ClInclude Include="..\..\include\wx\msw\ownerdrw.h" />
     <ClInclude Include="..\..\include\wx\msw\palette.h" />
     <ClInclude Include="..\..\include\wx\msw\panel.h" />
