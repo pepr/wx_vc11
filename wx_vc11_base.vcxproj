@@ -613,7 +613,7 @@
     <ClCompile Include="..\..\src\msw\debughlp.cpp" />
     <ClCompile Include="..\..\src\msw\dir.cpp" />
     <ClCompile Include="..\..\src\msw\dlmsw.cpp" />
-    <ClCompile Include="..\..\src\msw\evtloop.cpp" />
+    <ClCompile Include="..\..\src\msw\evtloopconsole.cpp" />
     <ClCompile Include="..\..\src\msw\fswatcher.cpp" />
     <ClCompile Include="..\..\src\msw\main.cpp" />
     <ClCompile Include="..\..\src\msw\mimetype.cpp" />
@@ -674,6 +674,7 @@
     <ClInclude Include="..\..\include\wx\msw\crashrpt.h" />
     <ClInclude Include="..\..\include\wx\msw\dde.h" />
     <ClInclude Include="..\..\include\wx\msw\debughlp.h" />
+    <ClInclude Include="..\..\include\wx\msw\evtloopconsole.h" />
     <ClInclude Include="..\..\include\wx\msw\fswatcher.h" />
     <ClInclude Include="..\..\include\wx\msw\gccpriv.h" />
     <CustomBuild Include="..\..\include\wx\msw\genrcdefs.h">

@@ -82,9 +82,6 @@
     <ClCompile Include="..\..\src\common\event.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\msw\evtloop.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\src\common\evtloopcmn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -338,6 +335,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\common\zstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\msw\evtloopconsole.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -880,6 +880,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\include\wx\zstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\wx\msw\evtloopconsole.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
