@@ -1108,6 +1108,7 @@
     <ClCompile Include="..\..\src\msw\uiaction.cpp" />
     <ClCompile Include="..\..\src\msw\utilsgui.cpp" />
     <ClCompile Include="..\..\src\msw\ole\uuid.cpp" />
+    <ClCompile Include="..\..\src\msw\utilswin.cpp" />
     <ClCompile Include="..\..\src\msw\uxtheme.cpp" />
     <ClCompile Include="..\..\src\msw\volume.cpp" />
     <ClCompile Include="..\..\src\msw\window.cpp" />

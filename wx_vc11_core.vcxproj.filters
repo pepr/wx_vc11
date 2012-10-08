@@ -982,6 +982,9 @@
     <ClCompile Include="..\..\src\common\xpmdecod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\msw\utilswin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\wx\aboutdlg.h">
