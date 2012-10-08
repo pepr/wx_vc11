@@ -53,9 +53,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "propgrid", "wx_vc11_propgri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "richtext", "wx_vc11_richtext.vcxproj", "{7FB0902D-8579-5DCE-B883-DAF66A885005}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stc", "wx_vc11_stc.vcxproj", "{23E1C437-A951-5943-8639-A17F3CF2E606}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gl", "wx_vc11_gl.vcxproj", "{DA8B15EF-6750-5928-BC0E-C748213CF9B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stc", "wx_vc11_stc.vcxproj", "{23E1C437-A951-5943-8639-A17F3CF2E606}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,22 +405,6 @@ Global
 		{7FB0902D-8579-5DCE-B883-DAF66A885005}.Universal Debug|Win32.Build.0 = Universal Debug|Win32
 		{7FB0902D-8579-5DCE-B883-DAF66A885005}.Universal Release|Win32.ActiveCfg = Universal Release|Win32
 		{7FB0902D-8579-5DCE-B883-DAF66A885005}.Universal Release|Win32.Build.0 = Universal Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Debug|Win32.ActiveCfg = Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Debug|Win32.Build.0 = Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Debug|Win32.ActiveCfg = DLL Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Debug|Win32.Build.0 = DLL Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|Win32.ActiveCfg = DLL Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|Win32.Build.0 = DLL Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Debug|Win32.ActiveCfg = DLL Universal Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Debug|Win32.Build.0 = DLL Universal Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Release|Win32.ActiveCfg = DLL Universal Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Release|Win32.Build.0 = DLL Universal Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|Win32.ActiveCfg = Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|Win32.Build.0 = Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Debug|Win32.ActiveCfg = Universal Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Debug|Win32.Build.0 = Universal Debug|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Release|Win32.ActiveCfg = Universal Release|Win32
-		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Release|Win32.Build.0 = Universal Release|Win32
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.Debug|Win32.ActiveCfg = Debug|Win32
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.Debug|Win32.Build.0 = Debug|Win32
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.DLL Debug|Win32.ActiveCfg = DLL Debug|Win32
@@ -437,6 +421,22 @@ Global
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.Universal Debug|Win32.Build.0 = Universal Debug|Win32
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.Universal Release|Win32.ActiveCfg = Universal Release|Win32
 		{DA8B15EF-6750-5928-BC0E-C748213CF9B2}.Universal Release|Win32.Build.0 = Universal Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Debug|Win32.Build.0 = Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Debug|Win32.ActiveCfg = DLL Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Debug|Win32.Build.0 = DLL Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|Win32.ActiveCfg = DLL Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Release|Win32.Build.0 = DLL Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Debug|Win32.ActiveCfg = DLL Universal Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Debug|Win32.Build.0 = DLL Universal Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Release|Win32.ActiveCfg = DLL Universal Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.DLL Universal Release|Win32.Build.0 = DLL Universal Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|Win32.ActiveCfg = Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Release|Win32.Build.0 = Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Debug|Win32.ActiveCfg = Universal Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Debug|Win32.Build.0 = Universal Debug|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Release|Win32.ActiveCfg = Universal Release|Win32
+		{23E1C437-A951-5943-8639-A17F3CF2E606}.Universal Release|Win32.Build.0 = Universal Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
