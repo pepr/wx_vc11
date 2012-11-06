@@ -185,7 +185,7 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswud\wxprec_baselib.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswud\base\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxbase29d.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxbase29ud.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -259,7 +259,7 @@
       <PrecompiledHeaderFile>wx/wxprec.h</PrecompiledHeaderFile>
       <PrecompiledHeaderOutputFile>vc_mswunivud\wxprec_baselib.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>vc_mswunivud\base\</ObjectFileName>
-      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxbase29d.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>..\..\lib\vc_lib\wxbase29ud.pdb</ProgramDataBaseFileName>
       <WarningLevel>Level4</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -823,6 +823,7 @@
     <ClInclude Include="..\..\include\wx\ptr_shrd.h" />
     <ClInclude Include="..\..\include\wx\recguard.h" />
     <ClInclude Include="..\..\include\wx\regex.h" />
+    <ClInclude Include="..\..\include\wx\meta\removeref.h" />
     <ClInclude Include="..\..\include\wx\rtti.h" />
     <ClInclude Include="..\..\include\wx\scopedarray.h" />
     <ClInclude Include="..\..\include\wx\scopedptr.h" />
